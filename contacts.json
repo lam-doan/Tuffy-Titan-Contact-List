@@ -1,1 +1,4002 @@
-{"7145551212": ["Steve", "Jobs"], "7145551111": ["Richard", "Stallman"]}
+{
+  "1569194166": {
+    "first_name": "Whitney",
+    "last_name": "Young",
+    "address": "PSC 7020, Box 0268, APO AA 81103",
+    "class": "senior",
+    "dob": "2007-03-25",
+    "major": "Computer Engineering"
+  },
+  "0777775431": {
+    "first_name": "Steven",
+    "last_name": "Villarreal",
+    "address": "589 Kelly Prairie Suite 655, Williamsmouth, ID 60678",
+    "class": "junior",
+    "dob": "2003-10-15",
+    "major": "Data Science"
+  },
+  "5980482045": {
+    "first_name": "Miranda",
+    "last_name": "Jefferson",
+    "address": "24676 Hawkins Coves Apt. 813, Millerton, MN 11804",
+    "class": "freshman",
+    "dob": "2007-01-02",
+    "major": "Cybersecurity"
+  },
+  "1556471720": {
+    "first_name": "Robert",
+    "last_name": "Reyes",
+    "address": "13517 Mccarthy Locks Suite 702, Lake Victoria, MT 30746",
+    "class": "sophomore",
+    "dob": "2005-02-11",
+    "major": "Information Systems"
+  },
+  "7906857097": {
+    "first_name": "Paul",
+    "last_name": "Deleon",
+    "address": "035 Skinner Lodge Apt. 654, East Benjaminfurt, IA 11013",
+    "class": "sophomore",
+    "dob": "2003-08-28",
+    "major": "Computer Engineering"
+  },
+  "1167043874": {
+    "first_name": "Jacob",
+    "last_name": "Nielsen",
+    "address": "60817 Tiffany Plains, North Steven, DE 27199",
+    "class": "freshman",
+    "dob": "2003-09-28",
+    "major": "Artificial Intelligence"
+  },
+  "5674152856": {
+    "first_name": "Jennifer",
+    "last_name": "Hopkins",
+    "address": "91947 Odonnell Creek Suite 573, North Christopher, VA 34365",
+    "class": "freshman",
+    "dob": "2004-10-10",
+    "major": "Mathematics"
+  },
+  "1388591371": {
+    "first_name": "Donna",
+    "last_name": "Merritt",
+    "address": "037 Martinez Valley Suite 391, Alexanderfurt, CO 77471",
+    "class": "senior",
+    "dob": "2004-01-20",
+    "major": "Data Science"
+  },
+  "5126910668": {
+    "first_name": "David",
+    "last_name": "Richards",
+    "address": "2369 Bowman Turnpike Suite 172, Clarkfurt, ND 33612",
+    "class": "senior",
+    "dob": "2004-10-07",
+    "major": "Information Systems"
+  },
+  "2849773898": {
+    "first_name": "Kevin",
+    "last_name": "Hernandez",
+    "address": "560 Rebecca Roads Apt. 832, Jenniferchester, AR 15358",
+    "class": "sophomore",
+    "dob": "2005-01-17",
+    "major": "Computer Science"
+  },
+  "9088837456": {
+    "first_name": "Dawn",
+    "last_name": "Gonzalez",
+    "address": "3946 Potts Mountain, Georgetown, UT 32251",
+    "class": "freshman",
+    "dob": "2004-01-25",
+    "major": "Electrical Engineering"
+  },
+  "2138274776": {
+    "first_name": "Cassie",
+    "last_name": "Dorsey",
+    "address": "53732 Robertson Coves, Jenniferfurt, NJ 76675",
+    "class": "senior",
+    "dob": "2003-06-16",
+    "major": "Artificial Intelligence"
+  },
+  "6234812564": {
+    "first_name": "Melissa",
+    "last_name": "Rivera",
+    "address": "38719 Ronald Courts Suite 927, Luceroburgh, TX 71213",
+    "class": "freshman",
+    "dob": "2002-11-17",
+    "major": "Data Science"
+  },
+  "1797292928": {
+    "first_name": "Carla",
+    "last_name": "Morgan",
+    "address": "578 Bruce Cliffs Suite 256, Port Donnatown, MI 14790",
+    "class": "sophomore",
+    "dob": "2006-05-25",
+    "major": "Cybersecurity"
+  },
+  "6991034799": {
+    "first_name": "Alison",
+    "last_name": "Williams",
+    "address": "2472 Ashley Keys, Gutierrezmouth, MS 74284",
+    "class": "senior",
+    "dob": "2006-09-08",
+    "major": "Mathematics"
+  },
+  "2089451770": {
+    "first_name": "Andrew",
+    "last_name": "Decker",
+    "address": "43389 Turner Summit, Port Lisaton, DC 84332",
+    "class": "sophomore",
+    "dob": "2003-01-09",
+    "major": "Computer Engineering"
+  },
+  "8899352889": {
+    "first_name": "Jeffery",
+    "last_name": "Hinton",
+    "address": "187 Marissa Street Suite 353, North Eric, SC 14205",
+    "class": "sophomore",
+    "dob": "2004-12-30",
+    "major": "Cybersecurity"
+  },
+  "3565291140": {
+    "first_name": "Joseph",
+    "last_name": "Thomas",
+    "address": "344 Henry Street, Woodsburgh, HI 73948",
+    "class": "senior",
+    "dob": "2002-12-31",
+    "major": "Computer Science"
+  },
+  "4587971129": {
+    "first_name": "Tara",
+    "last_name": "Martin",
+    "address": "USNV Gardner, FPO AA 92208",
+    "class": "senior",
+    "dob": "2006-02-27",
+    "major": "Information Systems"
+  },
+  "0076811656": {
+    "first_name": "Charles",
+    "last_name": "Mcclain",
+    "address": "Unit 2031 Box 0596, DPO AA 08885",
+    "class": "sophomore",
+    "dob": "2004-07-02",
+    "major": "Artificial Intelligence"
+  },
+  "8337371662": {
+    "first_name": "Jacob",
+    "last_name": "Duke",
+    "address": "22502 Montgomery Well Suite 328, Zacharyfort, OK 45335",
+    "class": "sophomore",
+    "dob": "2004-10-31",
+    "major": "Cybersecurity"
+  },
+  "3512044809": {
+    "first_name": "Anna",
+    "last_name": "Burch",
+    "address": "83270 Randy Place, Port Christineland, SC 64285",
+    "class": "sophomore",
+    "dob": "2002-11-29",
+    "major": "Electrical Engineering"
+  },
+  "0223778350": {
+    "first_name": "Jessica",
+    "last_name": "Rogers",
+    "address": "85819 Black Throughway Apt. 044, Haydenview, HI 80714",
+    "class": "senior",
+    "dob": "2005-12-16",
+    "major": "Physics"
+  },
+  "4004196689": {
+    "first_name": "Phillip",
+    "last_name": "Harrison",
+    "address": "639 Jay Ranch Suite 277, South Larryside, WY 75518",
+    "class": "senior",
+    "dob": "2004-01-01",
+    "major": "Physics"
+  },
+  "4307634782": {
+    "first_name": "Larry",
+    "last_name": "Harris",
+    "address": "692 Chapman Squares Apt. 520, West Timothyfurt, LA 01624",
+    "class": "senior",
+    "dob": "2006-05-18",
+    "major": "Electrical Engineering"
+  },
+  "4784312289": {
+    "first_name": "James",
+    "last_name": "Ford",
+    "address": "Unit 8006 Box 8628, DPO AP 34027",
+    "class": "senior",
+    "dob": "2007-05-05",
+    "major": "Cybersecurity"
+  },
+  "1323024719": {
+    "first_name": "David",
+    "last_name": "Johnson",
+    "address": "1673 Hudson Circles, South James, UT 64358",
+    "class": "freshman",
+    "dob": "2003-02-16",
+    "major": "Electrical Engineering"
+  },
+  "0559793501": {
+    "first_name": "Elizabeth",
+    "last_name": "Smith",
+    "address": "11453 Dennis Point Apt. 571, New John, IN 34425",
+    "class": "sophomore",
+    "dob": "2006-10-28",
+    "major": "Electrical Engineering"
+  },
+  "5094899042": {
+    "first_name": "Robin",
+    "last_name": "Compton",
+    "address": "1809 Arias River Apt. 720, Williamview, NV 63597",
+    "class": "senior",
+    "dob": "2006-11-11",
+    "major": "Computer Engineering"
+  },
+  "4085508495": {
+    "first_name": "Anthony",
+    "last_name": "Flores",
+    "address": "90734 Johnson Greens, Patrickburgh, DE 77669",
+    "class": "sophomore",
+    "dob": "2006-04-22",
+    "major": "Computer Engineering"
+  },
+  "7657083731": {
+    "first_name": "David",
+    "last_name": "Flores",
+    "address": "27365 Williams Islands Suite 370, Port Tammyfurt, MD 21045",
+    "class": "senior",
+    "dob": "2002-07-18",
+    "major": "Electrical Engineering"
+  },
+  "0291779845": {
+    "first_name": "Tammy",
+    "last_name": "Wolf",
+    "address": "7099 Julie Mountain Apt. 172, Port Williamfort, NM 75341",
+    "class": "freshman",
+    "dob": "2004-11-05",
+    "major": "Electrical Engineering"
+  },
+  "9514629646": {
+    "first_name": "Michael",
+    "last_name": "Mills",
+    "address": "234 Daniel Ford Suite 535, Jaclynbury, NE 37432",
+    "class": "junior",
+    "dob": "2002-10-26",
+    "major": "Mathematics"
+  },
+  "3439751664": {
+    "first_name": "Darren",
+    "last_name": "Baker",
+    "address": "67988 Hansen Vista Suite 389, Webbland, KS 49656",
+    "class": "freshman",
+    "dob": "2003-05-06",
+    "major": "Information Systems"
+  },
+  "1953984523": {
+    "first_name": "Mark",
+    "last_name": "Miranda",
+    "address": "280 Skinner Ridge Suite 594, New George, IA 43249",
+    "class": "sophomore",
+    "dob": "2006-12-04",
+    "major": "Mathematics"
+  },
+  "5095565276": {
+    "first_name": "Michael",
+    "last_name": "Nolan",
+    "address": "703 Morris Extension Suite 052, Wilsonside, VA 26340",
+    "class": "freshman",
+    "dob": "2002-09-22",
+    "major": "Electrical Engineering"
+  },
+  "6902071098": {
+    "first_name": "Joanna",
+    "last_name": "Perez",
+    "address": "254 Velez Vista, Jessicahaven, DE 60025",
+    "class": "sophomore",
+    "dob": "2005-06-23",
+    "major": "Information Systems"
+  },
+  "8543485699": {
+    "first_name": "William",
+    "last_name": "Stewart",
+    "address": "5365 Mary Manors Apt. 053, Nicholsonchester, MS 29371",
+    "class": "freshman",
+    "dob": "2004-04-27",
+    "major": "Computer Engineering"
+  },
+  "8365636969": {
+    "first_name": "Laura",
+    "last_name": "Silva",
+    "address": "00624 Moody Path Apt. 658, East Melissa, KS 05559",
+    "class": "freshman",
+    "dob": "2003-08-03",
+    "major": "Computer Engineering"
+  },
+  "2825033658": {
+    "first_name": "Nathaniel",
+    "last_name": "Ball",
+    "address": "319 Darryl Gateway Apt. 543, Gayside, GA 71785",
+    "class": "junior",
+    "dob": "2006-09-21",
+    "major": "Cybersecurity"
+  },
+  "4253081020": {
+    "first_name": "Ivan",
+    "last_name": "Moore",
+    "address": "7654 Mcknight Freeway, Woodfurt, MS 56827",
+    "class": "junior",
+    "dob": "2004-02-10",
+    "major": "Data Science"
+  },
+  "0936895229": {
+    "first_name": "Clifford",
+    "last_name": "Mcdonald",
+    "address": "1244 Ronald Mountain Apt. 576, Kirkfort, WV 03765",
+    "class": "senior",
+    "dob": "2006-03-04",
+    "major": "Electrical Engineering"
+  },
+  "0928678737": {
+    "first_name": "Timothy",
+    "last_name": "Garcia",
+    "address": "PSC 1709, Box 8813, APO AE 83015",
+    "class": "junior",
+    "dob": "2002-11-27",
+    "major": "Computer Science"
+  },
+  "4619849349": {
+    "first_name": "Jason",
+    "last_name": "White",
+    "address": "33577 Harper Ferry, Lake Crystal, RI 27523",
+    "class": "senior",
+    "dob": "2006-01-21",
+    "major": "Software Engineering"
+  },
+  "3426763461": {
+    "first_name": "Rebecca",
+    "last_name": "Smith",
+    "address": "0955 Julie Loop, South Mark, MO 52349",
+    "class": "freshman",
+    "dob": "2005-05-22",
+    "major": "Mathematics"
+  },
+  "1017552412": {
+    "first_name": "Christian",
+    "last_name": "Mcdonald",
+    "address": "Unit 5245 Box 6448, DPO AE 15940",
+    "class": "sophomore",
+    "dob": "2005-12-28",
+    "major": "Computer Science"
+  },
+  "8265083742": {
+    "first_name": "John",
+    "last_name": "Ramirez",
+    "address": "28681 Don Islands Suite 734, West Douglas, IN 53286",
+    "class": "junior",
+    "dob": "2007-05-13",
+    "major": "Cybersecurity"
+  },
+  "0696452943": {
+    "first_name": "Marcus",
+    "last_name": "Zuniga",
+    "address": "99907 Mendoza Road Apt. 546, North Scott, AL 82832",
+    "class": "sophomore",
+    "dob": "2002-12-28",
+    "major": "Computer Science"
+  },
+  "6742749301": {
+    "first_name": "Linda",
+    "last_name": "Robinson",
+    "address": "097 Amanda Greens Suite 782, Samanthaland, MS 58542",
+    "class": "sophomore",
+    "dob": "2004-09-25",
+    "major": "Mathematics"
+  },
+  "9433233850": {
+    "first_name": "Aaron",
+    "last_name": "Medina",
+    "address": "39397 Michael Fort Suite 874, South Alan, AZ 27449",
+    "class": "freshman",
+    "dob": "2004-01-31",
+    "major": "Computer Science"
+  },
+  "5718600072": {
+    "first_name": "Kathryn",
+    "last_name": "Parker",
+    "address": "814 Harrison Ports, North Andreamouth, MD 16901",
+    "class": "junior",
+    "dob": "2007-01-24",
+    "major": "Data Science"
+  },
+  "3591344366": {
+    "first_name": "Matthew",
+    "last_name": "Bowen",
+    "address": "630 Benjamin Overpass Suite 144, Millerland, KS 57726",
+    "class": "junior",
+    "dob": "2002-10-12",
+    "major": "Computer Science"
+  },
+  "4674962452": {
+    "first_name": "Heather",
+    "last_name": "Kennedy",
+    "address": "18850 Stanley Fields, New Misty, WA 18615",
+    "class": "senior",
+    "dob": "2005-10-05",
+    "major": "Data Science"
+  },
+  "7858308999": {
+    "first_name": "William",
+    "last_name": "Zimmerman",
+    "address": "USNV Fuller, FPO AP 79938",
+    "class": "junior",
+    "dob": "2006-06-23",
+    "major": "Electrical Engineering"
+  },
+  "1499496774": {
+    "first_name": "Oscar",
+    "last_name": "Thompson",
+    "address": "598 Jose Forest, West Allen, LA 40355",
+    "class": "junior",
+    "dob": "2004-05-15",
+    "major": "Software Engineering"
+  },
+  "1417632419": {
+    "first_name": "Tamara",
+    "last_name": "Thompson",
+    "address": "4816 Charles Forest Suite 318, Andreaport, WV 59049",
+    "class": "sophomore",
+    "dob": "2002-10-09",
+    "major": "Information Systems"
+  },
+  "6219523489": {
+    "first_name": "Jacob",
+    "last_name": "Vance",
+    "address": "4360 Alan Falls, New Geoffreybury, PA 56169",
+    "class": "junior",
+    "dob": "2003-09-16",
+    "major": "Computer Science"
+  },
+  "7792587535": {
+    "first_name": "Ashley",
+    "last_name": "Stout",
+    "address": "6183 Berry Plain Suite 385, South Lydia, MD 63742",
+    "class": "freshman",
+    "dob": "2004-08-03",
+    "major": "Data Science"
+  },
+  "9315162486": {
+    "first_name": "Elizabeth",
+    "last_name": "Moore",
+    "address": "PSC 4642, Box 8271, APO AE 39242",
+    "class": "senior",
+    "dob": "2007-03-29",
+    "major": "Mathematics"
+  },
+  "9789016086": {
+    "first_name": "Karen",
+    "last_name": "Morris",
+    "address": "13852 Ramirez Run, South Robertmouth, ID 84180",
+    "class": "junior",
+    "dob": "2004-06-01",
+    "major": "Computer Engineering"
+  },
+  "1189699751": {
+    "first_name": "Cody",
+    "last_name": "Shepherd",
+    "address": "7735 Patrick Flat Suite 035, East Jasmine, PA 18103",
+    "class": "sophomore",
+    "dob": "2004-09-03",
+    "major": "Computer Engineering"
+  },
+  "4948705617": {
+    "first_name": "Carl",
+    "last_name": "Gallegos",
+    "address": "582 Cole Orchard, Philipview, GA 62320",
+    "class": "freshman",
+    "dob": "2004-01-06",
+    "major": "Cybersecurity"
+  },
+  "3850444545": {
+    "first_name": "Jonathan",
+    "last_name": "Perez",
+    "address": "36542 Gina Street Apt. 210, Matthewfort, PA 82823",
+    "class": "sophomore",
+    "dob": "2003-05-08",
+    "major": "Data Science"
+  },
+  "2136329069": {
+    "first_name": "Brian",
+    "last_name": "Williams",
+    "address": "45527 Robert Summit Apt. 823, New Jeremiah, NH 76068",
+    "class": "sophomore",
+    "dob": "2007-04-17",
+    "major": "Data Science"
+  },
+  "7908154408": {
+    "first_name": "Cody",
+    "last_name": "Morris",
+    "address": "907 Hall Gardens, New Matthew, CO 88973",
+    "class": "sophomore",
+    "dob": "2002-06-10",
+    "major": "Artificial Intelligence"
+  },
+  "9362550854": {
+    "first_name": "Amy",
+    "last_name": "Wilson",
+    "address": "9799 Perez Cape Apt. 468, Underwoodport, MT 27371",
+    "class": "freshman",
+    "dob": "2005-10-13",
+    "major": "Electrical Engineering"
+  },
+  "8432113335": {
+    "first_name": "Brian",
+    "last_name": "Martinez",
+    "address": "8367 Vanessa Junction Apt. 787, Katelynville, VA 31475",
+    "class": "freshman",
+    "dob": "2005-11-03",
+    "major": "Software Engineering"
+  },
+  "9030814692": {
+    "first_name": "John",
+    "last_name": "Bennett",
+    "address": "762 Johns Way, Hillside, NC 67824",
+    "class": "sophomore",
+    "dob": "2005-01-08",
+    "major": "Computer Engineering"
+  },
+  "8179014106": {
+    "first_name": "Sierra",
+    "last_name": "Turner",
+    "address": "96357 Brian Loop Suite 583, Katherineview, MT 95931",
+    "class": "junior",
+    "dob": "2002-06-03",
+    "major": "Data Science"
+  },
+  "5836196902": {
+    "first_name": "Christopher",
+    "last_name": "Daniel",
+    "address": "497 Deanna Lights, South Adamside, IA 81641",
+    "class": "junior",
+    "dob": "2004-10-30",
+    "major": "Electrical Engineering"
+  },
+  "4361018023": {
+    "first_name": "Jared",
+    "last_name": "Clark",
+    "address": "70355 Timothy Center Apt. 307, Carlosville, CO 09974",
+    "class": "senior",
+    "dob": "2005-03-06",
+    "major": "Data Science"
+  },
+  "5735105556": {
+    "first_name": "Emily",
+    "last_name": "Curtis",
+    "address": "407 Mejia Ridges, Starkland, RI 64509",
+    "class": "junior",
+    "dob": "2005-06-01",
+    "major": "Computer Engineering"
+  },
+  "6912368449": {
+    "first_name": "Benjamin",
+    "last_name": "Kennedy",
+    "address": "35022 Ryan Plains, Timothyville, IN 14619",
+    "class": "freshman",
+    "dob": "2005-01-22",
+    "major": "Computer Science"
+  },
+  "8348521103": {
+    "first_name": "Devin",
+    "last_name": "Herman",
+    "address": "76184 Shannon Mission Suite 012, Port Michael, WY 71406",
+    "class": "freshman",
+    "dob": "2002-11-03",
+    "major": "Mathematics"
+  },
+  "8671810284": {
+    "first_name": "Michael",
+    "last_name": "Rodriguez",
+    "address": "USNV Buchanan, FPO AA 40505",
+    "class": "freshman",
+    "dob": "2004-04-29",
+    "major": "Software Engineering"
+  },
+  "2873259878": {
+    "first_name": "Dylan",
+    "last_name": "Craig",
+    "address": "USNS Cummings, FPO AE 19780",
+    "class": "freshman",
+    "dob": "2006-06-27",
+    "major": "Data Science"
+  },
+  "9185504509": {
+    "first_name": "Deborah",
+    "last_name": "Calderon",
+    "address": "PSC 7258, Box 1011, APO AE 37870",
+    "class": "senior",
+    "dob": "2005-10-13",
+    "major": "Electrical Engineering"
+  },
+  "2803417216": {
+    "first_name": "Victor",
+    "last_name": "Baker",
+    "address": "998 Alex Dale, Samanthaborough, MT 41651",
+    "class": "junior",
+    "dob": "2006-01-01",
+    "major": "Data Science"
+  },
+  "6792806930": {
+    "first_name": "Brett",
+    "last_name": "Moore",
+    "address": "868 Johnson Manor Apt. 478, Cunninghamborough, NJ 47513",
+    "class": "freshman",
+    "dob": "2006-09-16",
+    "major": "Computer Engineering"
+  },
+  "7279142484": {
+    "first_name": "Christopher",
+    "last_name": "Meyer",
+    "address": "PSC 6001, Box 1309, APO AA 61275",
+    "class": "freshman",
+    "dob": "2005-01-08",
+    "major": "Computer Science"
+  },
+  "1950192444": {
+    "first_name": "Christopher",
+    "last_name": "Dalton",
+    "address": "30960 Graham Park Apt. 983, Michaelshire, NY 65348",
+    "class": "sophomore",
+    "dob": "2006-06-09",
+    "major": "Software Engineering"
+  },
+  "2667422023": {
+    "first_name": "Julia",
+    "last_name": "Dennis",
+    "address": "17327 David Rapids, West Desireeshire, KY 49084",
+    "class": "junior",
+    "dob": "2005-09-08",
+    "major": "Artificial Intelligence"
+  },
+  "9325603637": {
+    "first_name": "Carrie",
+    "last_name": "Lewis",
+    "address": "687 Linda Roads, New Alexis, OH 36936",
+    "class": "junior",
+    "dob": "2007-05-10",
+    "major": "Cybersecurity"
+  },
+  "0921029612": {
+    "first_name": "Marc",
+    "last_name": "Martinez",
+    "address": "60069 Michelle Bypass Apt. 057, Port Melanieville, SC 28239",
+    "class": "senior",
+    "dob": "2003-07-13",
+    "major": "Cybersecurity"
+  },
+  "7702723125": {
+    "first_name": "Brandon",
+    "last_name": "Dean",
+    "address": "0361 Watson Lakes, New Erin, NJ 43761",
+    "class": "junior",
+    "dob": "2003-12-30",
+    "major": "Computer Engineering"
+  },
+  "5533683274": {
+    "first_name": "Dana",
+    "last_name": "Bright",
+    "address": "25638 Mack Flat, East Carmenview, LA 15747",
+    "class": "sophomore",
+    "dob": "2005-08-01",
+    "major": "Artificial Intelligence"
+  },
+  "6926890974": {
+    "first_name": "Destiny",
+    "last_name": "Cochran",
+    "address": "103 Rebekah Trail, West Markhaven, AR 18239",
+    "class": "junior",
+    "dob": "2004-07-25",
+    "major": "Software Engineering"
+  },
+  "8476596903": {
+    "first_name": "Allison",
+    "last_name": "Williams",
+    "address": "5712 Wright Cliff, Taylortown, SC 34326",
+    "class": "junior",
+    "dob": "2004-09-21",
+    "major": "Electrical Engineering"
+  },
+  "1531236438": {
+    "first_name": "Jennifer",
+    "last_name": "Walton",
+    "address": "415 Estrada Ford, Daughertyborough, AK 95612",
+    "class": "senior",
+    "dob": "2005-09-15",
+    "major": "Mathematics"
+  },
+  "8192615840": {
+    "first_name": "William",
+    "last_name": "Taylor",
+    "address": "5210 Reed Stravenue, Hughesburgh, CA 37030",
+    "class": "sophomore",
+    "dob": "2004-11-27",
+    "major": "Software Engineering"
+  },
+  "3164138813": {
+    "first_name": "David",
+    "last_name": "Alexander",
+    "address": "684 Kyle Mountain, Port Savannahstad, CO 05286",
+    "class": "freshman",
+    "dob": "2006-09-07",
+    "major": "Mathematics"
+  },
+  "3112291590": {
+    "first_name": "Jose",
+    "last_name": "Fleming",
+    "address": "Unit 4170 Box 1516, DPO AE 20329",
+    "class": "freshman",
+    "dob": "2002-09-24",
+    "major": "Software Engineering"
+  },
+  "7907591577": {
+    "first_name": "Dominique",
+    "last_name": "Wallace",
+    "address": "392 Barton Curve, East Theresaport, CA 33240",
+    "class": "freshman",
+    "dob": "2007-02-23",
+    "major": "Computer Engineering"
+  },
+  "9050043759": {
+    "first_name": "Amy",
+    "last_name": "Ray",
+    "address": "53986 Scott Ford Apt. 587, West Gregoryton, ND 82049",
+    "class": "sophomore",
+    "dob": "2003-11-04",
+    "major": "Data Science"
+  },
+  "8498229293": {
+    "first_name": "Joanne",
+    "last_name": "Kelley",
+    "address": "1956 Williams Lodge Apt. 133, New Travis, MI 34118",
+    "class": "freshman",
+    "dob": "2007-05-29",
+    "major": "Cybersecurity"
+  },
+  "0372201341": {
+    "first_name": "Trevor",
+    "last_name": "Wilson",
+    "address": "833 David Plains Apt. 150, Jeffreyhaven, RI 53969",
+    "class": "freshman",
+    "dob": "2004-02-24",
+    "major": "Computer Engineering"
+  },
+  "9154445756": {
+    "first_name": "Ashley",
+    "last_name": "Jackson",
+    "address": "2343 Mcneil Inlet Suite 336, Pamelaland, OK 90815",
+    "class": "senior",
+    "dob": "2006-03-17",
+    "major": "Electrical Engineering"
+  },
+  "2673257077": {
+    "first_name": "Mary",
+    "last_name": "Hines",
+    "address": "49108 Nicholas Fords, Youngport, CT 01285",
+    "class": "freshman",
+    "dob": "2004-08-15",
+    "major": "Electrical Engineering"
+  },
+  "0978523055": {
+    "first_name": "Jessica",
+    "last_name": "Jackson",
+    "address": "PSC 3886, Box 3543, APO AA 96234",
+    "class": "freshman",
+    "dob": "2004-10-10",
+    "major": "Artificial Intelligence"
+  },
+  "9868431396": {
+    "first_name": "Kristin",
+    "last_name": "Avery",
+    "address": "466 Jessica Vista Apt. 322, Katherinechester, TN 13148",
+    "class": "freshman",
+    "dob": "2006-09-22",
+    "major": "Software Engineering"
+  },
+  "3306170430": {
+    "first_name": "James",
+    "last_name": "Sanchez",
+    "address": "436 Rodriguez Road, Ramosville, WA 65922",
+    "class": "sophomore",
+    "dob": "2007-01-30",
+    "major": "Artificial Intelligence"
+  },
+  "9064963157": {
+    "first_name": "James",
+    "last_name": "Zimmerman",
+    "address": "4640 Carlos Ports, West Bradley, CT 50355",
+    "class": "sophomore",
+    "dob": "2004-05-09",
+    "major": "Information Systems"
+  },
+  "9773140541": {
+    "first_name": "Julie",
+    "last_name": "Schneider",
+    "address": "672 Derrick Junction, Bensonbury, IL 91963",
+    "class": "sophomore",
+    "dob": "2005-04-15",
+    "major": "Artificial Intelligence"
+  },
+  "7851010741": {
+    "first_name": "Lisa",
+    "last_name": "Lambert",
+    "address": "7746 Lauren Manor, Garyview, WI 47912",
+    "class": "senior",
+    "dob": "2005-10-25",
+    "major": "Software Engineering"
+  },
+  "2825389463": {
+    "first_name": "Daniel",
+    "last_name": "Mills",
+    "address": "871 James Rue, Townsendfurt, PA 18984",
+    "class": "junior",
+    "dob": "2003-03-21",
+    "major": "Computer Engineering"
+  },
+  "3342410174": {
+    "first_name": "Joshua",
+    "last_name": "Greene",
+    "address": "89411 Rodriguez Avenue, Michaelchester, NY 74984",
+    "class": "junior",
+    "dob": "2005-11-05",
+    "major": "Mathematics"
+  },
+  "6099951762": {
+    "first_name": "Richard",
+    "last_name": "Miles",
+    "address": "84118 Ramos Squares, Gonzalezmouth, ID 16711",
+    "class": "senior",
+    "dob": "2002-08-20",
+    "major": "Information Systems"
+  },
+  "1598595374": {
+    "first_name": "Steven",
+    "last_name": "Sullivan",
+    "address": "029 Wiley Highway Apt. 764, Diazfort, NM 56697",
+    "class": "junior",
+    "dob": "2004-10-02",
+    "major": "Information Systems"
+  },
+  "1313156750": {
+    "first_name": "Louis",
+    "last_name": "Weaver",
+    "address": "511 Valerie Freeway, Josephville, MO 80385",
+    "class": "sophomore",
+    "dob": "2004-12-30",
+    "major": "Information Systems"
+  },
+  "7904195470": {
+    "first_name": "Kayla",
+    "last_name": "Lloyd",
+    "address": "2410 Gregory Lodge Suite 758, North Kathryn, MT 49638",
+    "class": "junior",
+    "dob": "2005-09-30",
+    "major": "Computer Engineering"
+  },
+  "4751261568": {
+    "first_name": "Cynthia",
+    "last_name": "Brown",
+    "address": "9255 Adam Cape, New Markmouth, IA 25489",
+    "class": "freshman",
+    "dob": "2003-04-22",
+    "major": "Physics"
+  },
+  "6767875069": {
+    "first_name": "Gregory",
+    "last_name": "Kelly",
+    "address": "1770 Anne Inlet, Lake Sheilamouth, WI 08515",
+    "class": "senior",
+    "dob": "2006-10-14",
+    "major": "Information Systems"
+  },
+  "3467711338": {
+    "first_name": "Stacey",
+    "last_name": "Greer",
+    "address": "880 Ruiz Prairie Suite 973, South Jeremy, AZ 60809",
+    "class": "sophomore",
+    "dob": "2005-09-07",
+    "major": "Cybersecurity"
+  },
+  "1329757965": {
+    "first_name": "Kaitlyn",
+    "last_name": "Smith",
+    "address": "859 Wanda Crossroad, South Cathy, TX 95406",
+    "class": "sophomore",
+    "dob": "2004-03-03",
+    "major": "Computer Engineering"
+  },
+  "8099681561": {
+    "first_name": "Connor",
+    "last_name": "Wells",
+    "address": "40511 Richard Avenue Suite 823, East Clintonfort, ND 26037",
+    "class": "senior",
+    "dob": "2004-04-28",
+    "major": "Data Science"
+  },
+  "0546532887": {
+    "first_name": "Kelli",
+    "last_name": "Nelson",
+    "address": "81232 Jenkins Island, North Rachel, VT 46814",
+    "class": "senior",
+    "dob": "2002-09-16",
+    "major": "Physics"
+  },
+  "8929798202": {
+    "first_name": "Brendan",
+    "last_name": "Miller",
+    "address": "PSC 5100, Box 7114, APO AP 47005",
+    "class": "sophomore",
+    "dob": "2003-10-11",
+    "major": "Data Science"
+  },
+  "9416467693": {
+    "first_name": "James",
+    "last_name": "Foster",
+    "address": "663 Watson Dam Suite 136, North David, RI 55668",
+    "class": "junior",
+    "dob": "2002-09-08",
+    "major": "Artificial Intelligence"
+  },
+  "2102203492": {
+    "first_name": "Brandi",
+    "last_name": "Rose",
+    "address": "234 Carroll Meadow Apt. 485, North Joshua, MD 99758",
+    "class": "senior",
+    "dob": "2004-02-04",
+    "major": "Computer Engineering"
+  },
+  "7688385943": {
+    "first_name": "Timothy",
+    "last_name": "Wells",
+    "address": "04567 Isaac Cliff Suite 719, Lake Krista, TX 96177",
+    "class": "senior",
+    "dob": "2006-03-28",
+    "major": "Information Systems"
+  },
+  "7237046573": {
+    "first_name": "Samantha",
+    "last_name": "Jones",
+    "address": "2514 Cooper Fall, East Christophershire, TX 17452",
+    "class": "freshman",
+    "dob": "2004-08-02",
+    "major": "Computer Science"
+  },
+  "8263486328": {
+    "first_name": "Robert",
+    "last_name": "Gomez",
+    "address": "7019 Watson Drive Apt. 571, West Teresa, WI 28282",
+    "class": "freshman",
+    "dob": "2005-12-22",
+    "major": "Cybersecurity"
+  },
+  "7580610215": {
+    "first_name": "Laura",
+    "last_name": "Scott",
+    "address": "997 Spence Points Apt. 974, Port Charlesville, SC 84896",
+    "class": "junior",
+    "dob": "2004-09-25",
+    "major": "Artificial Intelligence"
+  },
+  "5980745163": {
+    "first_name": "Jesse",
+    "last_name": "Carr",
+    "address": "9336 Howard Court, Hudsonborough, KY 86614",
+    "class": "junior",
+    "dob": "2002-08-13",
+    "major": "Computer Engineering"
+  },
+  "6665509001": {
+    "first_name": "Daniel",
+    "last_name": "Owens",
+    "address": "72625 Cindy Knoll, Madisonfort, VT 99320",
+    "class": "senior",
+    "dob": "2007-05-16",
+    "major": "Computer Engineering"
+  },
+  "9607869688": {
+    "first_name": "Peter",
+    "last_name": "Gordon",
+    "address": "38174 Gonzalez Lane Apt. 905, New Steve, MN 91252",
+    "class": "freshman",
+    "dob": "2005-01-24",
+    "major": "Computer Engineering"
+  },
+  "7008098219": {
+    "first_name": "Yesenia",
+    "last_name": "Thornton",
+    "address": "2740 Middleton Forges, Garciafurt, HI 40368",
+    "class": "sophomore",
+    "dob": "2007-05-10",
+    "major": "Computer Science"
+  },
+  "2650314967": {
+    "first_name": "Katie",
+    "last_name": "Sanchez",
+    "address": "7557 Meyer Branch Suite 402, Greggberg, MN 94459",
+    "class": "freshman",
+    "dob": "2007-05-27",
+    "major": "Computer Science"
+  },
+  "4471655363": {
+    "first_name": "Alexander",
+    "last_name": "Strickland",
+    "address": "57852 Yu Springs Apt. 506, Deborahview, KY 06722",
+    "class": "junior",
+    "dob": "2007-03-23",
+    "major": "Software Engineering"
+  },
+  "7224280886": {
+    "first_name": "Todd",
+    "last_name": "Barnes",
+    "address": "8359 Gardner Plain Suite 706, Jamiechester, LA 97097",
+    "class": "sophomore",
+    "dob": "2003-07-28",
+    "major": "Artificial Intelligence"
+  },
+  "4466983006": {
+    "first_name": "Courtney",
+    "last_name": "Curtis",
+    "address": "20416 Hurst Common, East Michael, KY 56043",
+    "class": "senior",
+    "dob": "2005-12-08",
+    "major": "Physics"
+  },
+  "0627914908": {
+    "first_name": "Jordan",
+    "last_name": "Hooper",
+    "address": "4264 Castillo Point, South Kevinmouth, WI 41397",
+    "class": "senior",
+    "dob": "2004-05-13",
+    "major": "Physics"
+  },
+  "0040260950": {
+    "first_name": "James",
+    "last_name": "Stafford",
+    "address": "163 Short Course Apt. 660, North Tara, OH 29098",
+    "class": "senior",
+    "dob": "2004-06-26",
+    "major": "Physics"
+  },
+  "4895333622": {
+    "first_name": "Sophia",
+    "last_name": "Matthews",
+    "address": "32357 Butler View, Sydneyton, TX 69062",
+    "class": "junior",
+    "dob": "2006-02-12",
+    "major": "Computer Engineering"
+  },
+  "1515984465": {
+    "first_name": "Jason",
+    "last_name": "Schmidt",
+    "address": "5167 Gibbs Ridges Suite 749, Barneshaven, IL 72752",
+    "class": "senior",
+    "dob": "2002-07-10",
+    "major": "Physics"
+  },
+  "2137181534": {
+    "first_name": "Steve",
+    "last_name": "Malone",
+    "address": "5741 Barbara Shoal, Port Andrew, DE 47405",
+    "class": "senior",
+    "dob": "2005-10-24",
+    "major": "Physics"
+  },
+  "2526949103": {
+    "first_name": "John",
+    "last_name": "Rose",
+    "address": "USS Acevedo, FPO AE 86953",
+    "class": "senior",
+    "dob": "2004-02-28",
+    "major": "Electrical Engineering"
+  },
+  "9952411856": {
+    "first_name": "Natasha",
+    "last_name": "Lopez",
+    "address": "Unit 4638 Box 9911, DPO AA 78061",
+    "class": "junior",
+    "dob": "2004-06-10",
+    "major": "Computer Science"
+  },
+  "8474409170": {
+    "first_name": "David",
+    "last_name": "Waters",
+    "address": "196 Amy Burg, Riosshire, TN 56805",
+    "class": "freshman",
+    "dob": "2005-04-15",
+    "major": "Computer Science"
+  },
+  "7228977826": {
+    "first_name": "Rebecca",
+    "last_name": "Hardy",
+    "address": "19923 Barbara Meadows, Lake Andrealand, DC 26143",
+    "class": "senior",
+    "dob": "2004-12-08",
+    "major": "Computer Engineering"
+  },
+  "4283825268": {
+    "first_name": "Wanda",
+    "last_name": "Morse",
+    "address": "3801 Morrison Stravenue, South William, KY 60521",
+    "class": "junior",
+    "dob": "2004-04-17",
+    "major": "Data Science"
+  },
+  "9592807420": {
+    "first_name": "Karen",
+    "last_name": "Mccarthy",
+    "address": "628 James Route Suite 427, Rebeccaborough, DE 34576",
+    "class": "senior",
+    "dob": "2006-08-17",
+    "major": "Mathematics"
+  },
+  "9270974733": {
+    "first_name": "Heather",
+    "last_name": "Jones",
+    "address": "64361 Christopher Fords, Elizabethborough, ID 83924",
+    "class": "junior",
+    "dob": "2004-07-20",
+    "major": "Cybersecurity"
+  },
+  "8465464909": {
+    "first_name": "Emily",
+    "last_name": "Brewer",
+    "address": "577 Solomon Lake Suite 536, Jessehaven, IL 96717",
+    "class": "senior",
+    "dob": "2006-07-27",
+    "major": "Electrical Engineering"
+  },
+  "2690747439": {
+    "first_name": "Andrea",
+    "last_name": "Dunn",
+    "address": "1275 Megan Lodge Suite 863, New Brandonfurt, UT 37676",
+    "class": "sophomore",
+    "dob": "2002-11-16",
+    "major": "Software Engineering"
+  },
+  "7747326247": {
+    "first_name": "Stephanie",
+    "last_name": "Robbins",
+    "address": "75871 Gary Mountain Suite 939, Port Melissa, MT 81796",
+    "class": "sophomore",
+    "dob": "2003-08-12",
+    "major": "Mathematics"
+  },
+  "1314215681": {
+    "first_name": "Jacob",
+    "last_name": "Kelley",
+    "address": "USNS Jones, FPO AE 41173",
+    "class": "freshman",
+    "dob": "2005-05-08",
+    "major": "Computer Science"
+  },
+  "5325959338": {
+    "first_name": "Melissa",
+    "last_name": "Peterson",
+    "address": "051 Nicole Gateway Apt. 735, New Brianborough, AR 29101",
+    "class": "senior",
+    "dob": "2005-02-04",
+    "major": "Mathematics"
+  },
+  "2849947643": {
+    "first_name": "Cory",
+    "last_name": "Houston",
+    "address": "3536 Christopher Loaf, North Ashleyhaven, RI 79574",
+    "class": "senior",
+    "dob": "2006-02-17",
+    "major": "Cybersecurity"
+  },
+  "3243040820": {
+    "first_name": "Danielle",
+    "last_name": "Mcbride",
+    "address": "234 Nicole Village Suite 129, Brittanyton, MO 78397",
+    "class": "senior",
+    "dob": "2005-09-26",
+    "major": "Cybersecurity"
+  },
+  "9718517700": {
+    "first_name": "Diane",
+    "last_name": "Taylor",
+    "address": "PSC 2273, Box 1940, APO AA 83138",
+    "class": "sophomore",
+    "dob": "2006-11-04",
+    "major": "Computer Engineering"
+  },
+  "4275092505": {
+    "first_name": "Sara",
+    "last_name": "Oliver",
+    "address": "6333 Flores Manors, Hillside, SC 88324",
+    "class": "sophomore",
+    "dob": "2007-04-22",
+    "major": "Cybersecurity"
+  },
+  "7228230201": {
+    "first_name": "Jamie",
+    "last_name": "Martinez",
+    "address": "2287 Delgado Village, Courtneyfurt, NY 88074",
+    "class": "sophomore",
+    "dob": "2005-02-13",
+    "major": "Artificial Intelligence"
+  },
+  "5417827254": {
+    "first_name": "Amanda",
+    "last_name": "Pineda",
+    "address": "USNV Clayton, FPO AA 93411",
+    "class": "junior",
+    "dob": "2006-10-14",
+    "major": "Cybersecurity"
+  },
+  "5741504393": {
+    "first_name": "Nicole",
+    "last_name": "Silva",
+    "address": "254 Figueroa Pines Apt. 714, Simpsontown, MT 55462",
+    "class": "sophomore",
+    "dob": "2006-11-09",
+    "major": "Data Science"
+  },
+  "6078573785": {
+    "first_name": "Matthew",
+    "last_name": "Delacruz",
+    "address": "Unit 7270 Box 2514, DPO AA 56085",
+    "class": "freshman",
+    "dob": "2003-06-21",
+    "major": "Electrical Engineering"
+  },
+  "3142095219": {
+    "first_name": "Brian",
+    "last_name": "Caldwell",
+    "address": "73487 Patricia Meadows Suite 927, Riveratown, KY 40107",
+    "class": "sophomore",
+    "dob": "2004-12-17",
+    "major": "Data Science"
+  },
+  "7999693866": {
+    "first_name": "Tiffany",
+    "last_name": "Hawkins",
+    "address": "09305 Molina Island Apt. 364, West Jeffrey, NY 36120",
+    "class": "sophomore",
+    "dob": "2005-05-23",
+    "major": "Physics"
+  },
+  "7412728985": {
+    "first_name": "Thomas",
+    "last_name": "Perez",
+    "address": "59923 Joseph Meadow Apt. 806, South Alex, FL 34768",
+    "class": "sophomore",
+    "dob": "2003-08-02",
+    "major": "Mathematics"
+  },
+  "3641889788": {
+    "first_name": "Lee",
+    "last_name": "Chavez",
+    "address": "88750 Tammy Union, Watersview, OR 93422",
+    "class": "sophomore",
+    "dob": "2006-09-13",
+    "major": "Electrical Engineering"
+  },
+  "0209573374": {
+    "first_name": "Gina",
+    "last_name": "Jones",
+    "address": "686 Gregory Creek Suite 891, New Michael, NE 10454",
+    "class": "sophomore",
+    "dob": "2002-12-01",
+    "major": "Information Systems"
+  },
+  "6677046006": {
+    "first_name": "Daniel",
+    "last_name": "Davis",
+    "address": "328 Kimberly Heights Suite 542, New Tyler, CA 94599",
+    "class": "freshman",
+    "dob": "2006-01-10",
+    "major": "Cybersecurity"
+  },
+  "0166624007": {
+    "first_name": "Christopher",
+    "last_name": "Richardson",
+    "address": "1372 Joshua Glen Suite 762, Erinbury, VA 58517",
+    "class": "sophomore",
+    "dob": "2007-03-05",
+    "major": "Mathematics"
+  },
+  "6958440187": {
+    "first_name": "Kendra",
+    "last_name": "Bernard",
+    "address": "7545 Young Mountains, Kimberlyfurt, UT 87517",
+    "class": "sophomore",
+    "dob": "2004-12-30",
+    "major": "Computer Engineering"
+  },
+  "4842944217": {
+    "first_name": "John",
+    "last_name": "Ramirez",
+    "address": "384 Bradley Rapid Suite 975, Lake Coleborough, IA 88477",
+    "class": "sophomore",
+    "dob": "2002-12-14",
+    "major": "Data Science"
+  },
+  "5037847500": {
+    "first_name": "Joseph",
+    "last_name": "Meyer",
+    "address": "27767 Sierra Squares, Morrisland, VA 93130",
+    "class": "junior",
+    "dob": "2002-08-27",
+    "major": "Data Science"
+  },
+  "4639913959": {
+    "first_name": "Stephen",
+    "last_name": "Pace",
+    "address": "6626 Melissa Trace, North Lisamouth, OR 36037",
+    "class": "junior",
+    "dob": "2005-09-16",
+    "major": "Artificial Intelligence"
+  },
+  "1722263736": {
+    "first_name": "Matthew",
+    "last_name": "Holder",
+    "address": "USNV Reed, FPO AE 03484",
+    "class": "sophomore",
+    "dob": "2007-04-28",
+    "major": "Data Science"
+  },
+  "5023802380": {
+    "first_name": "Ashley",
+    "last_name": "Rios",
+    "address": "Unit 5339 Box 5754, DPO AP 90343",
+    "class": "sophomore",
+    "dob": "2004-03-31",
+    "major": "Electrical Engineering"
+  },
+  "8028007296": {
+    "first_name": "Michael",
+    "last_name": "Reid",
+    "address": "627 Patterson Islands Apt. 307, East Jasonview, NY 25319",
+    "class": "senior",
+    "dob": "2005-09-28",
+    "major": "Mathematics"
+  },
+  "7631373144": {
+    "first_name": "James",
+    "last_name": "Stone",
+    "address": "8089 Nicole Parkways, Priceshire, IN 30436",
+    "class": "junior",
+    "dob": "2006-08-24",
+    "major": "Mathematics"
+  },
+  "5397036471": {
+    "first_name": "Kelsey",
+    "last_name": "Rios",
+    "address": "1574 Jasmine Well, West Jacquelinestad, VA 99144",
+    "class": "junior",
+    "dob": "2006-01-15",
+    "major": "Information Systems"
+  },
+  "6040858931": {
+    "first_name": "Debra",
+    "last_name": "Hunter",
+    "address": "6483 Elizabeth Crossing Suite 324, Hallland, CT 49940",
+    "class": "freshman",
+    "dob": "2003-01-20",
+    "major": "Computer Engineering"
+  },
+  "4368199996": {
+    "first_name": "Theodore",
+    "last_name": "Anderson",
+    "address": "367 David Pass Suite 256, Perkinsfort, NC 50431",
+    "class": "freshman",
+    "dob": "2005-03-02",
+    "major": "Electrical Engineering"
+  },
+  "1861625993": {
+    "first_name": "William",
+    "last_name": "Roberts",
+    "address": "197 Kristi Estates Suite 765, Burkechester, MI 96174",
+    "class": "sophomore",
+    "dob": "2004-10-13",
+    "major": "Software Engineering"
+  },
+  "0004748823": {
+    "first_name": "Nicole",
+    "last_name": "Terry",
+    "address": "7388 Mark Center, Lanebury, DC 31242",
+    "class": "sophomore",
+    "dob": "2002-12-05",
+    "major": "Information Systems"
+  },
+  "2172220180": {
+    "first_name": "Benjamin",
+    "last_name": "Burke",
+    "address": "239 Christopher Coves, Pierceland, FL 27297",
+    "class": "junior",
+    "dob": "2004-10-19",
+    "major": "Artificial Intelligence"
+  },
+  "0374526374": {
+    "first_name": "Charlene",
+    "last_name": "Solomon",
+    "address": "6860 Rebecca Villages Suite 027, Port Julieside, VT 20152",
+    "class": "freshman",
+    "dob": "2005-06-05",
+    "major": "Artificial Intelligence"
+  },
+  "5404120180": {
+    "first_name": "Julie",
+    "last_name": "Johnson",
+    "address": "PSC 4387, Box 0338, APO AA 28288",
+    "class": "sophomore",
+    "dob": "2005-03-03",
+    "major": "Cybersecurity"
+  },
+  "5008976886": {
+    "first_name": "Michael",
+    "last_name": "Taylor",
+    "address": "8018 Hebert Plains, Jonesberg, AR 56896",
+    "class": "senior",
+    "dob": "2004-01-31",
+    "major": "Artificial Intelligence"
+  },
+  "2554954581": {
+    "first_name": "Cody",
+    "last_name": "Ortiz",
+    "address": "PSC 5166, Box 7037, APO AE 22080",
+    "class": "senior",
+    "dob": "2003-02-10",
+    "major": "Computer Science"
+  },
+  "9054292661": {
+    "first_name": "Melinda",
+    "last_name": "Ward",
+    "address": "303 Tonya Wall Suite 935, Adrianside, HI 17477",
+    "class": "sophomore",
+    "dob": "2006-06-23",
+    "major": "Mathematics"
+  },
+  "4934850967": {
+    "first_name": "Brian",
+    "last_name": "Rubio",
+    "address": "353 Nguyen Prairie Apt. 621, Lake Jennifer, NC 57366",
+    "class": "senior",
+    "dob": "2002-10-03",
+    "major": "Cybersecurity"
+  },
+  "4967283776": {
+    "first_name": "Katherine",
+    "last_name": "Robinson",
+    "address": "690 Thompson Springs Apt. 411, West Denise, AZ 88230",
+    "class": "junior",
+    "dob": "2007-02-27",
+    "major": "Mathematics"
+  },
+  "6852519675": {
+    "first_name": "Joseph",
+    "last_name": "Wright",
+    "address": "Unit 4432 Box 7892, DPO AP 50741",
+    "class": "senior",
+    "dob": "2005-06-04",
+    "major": "Information Systems"
+  },
+  "5652052945": {
+    "first_name": "Laura",
+    "last_name": "Gonzalez",
+    "address": "9854 Edwards Lake, Kellyborough, WI 25517",
+    "class": "freshman",
+    "dob": "2004-01-28",
+    "major": "Physics"
+  },
+  "0374808194": {
+    "first_name": "Jeffrey",
+    "last_name": "Jenkins",
+    "address": "826 Molly Inlet, Morrisburgh, MO 86901",
+    "class": "sophomore",
+    "dob": "2006-02-17",
+    "major": "Physics"
+  },
+  "1783387372": {
+    "first_name": "Traci",
+    "last_name": "Allen",
+    "address": "527 Wilson Trail, Michaelfurt, NM 36939",
+    "class": "senior",
+    "dob": "2003-02-26",
+    "major": "Computer Science"
+  },
+  "7734164794": {
+    "first_name": "Michael",
+    "last_name": "Jones",
+    "address": "PSC 3109, Box 4528, APO AA 48493",
+    "class": "senior",
+    "dob": "2006-05-21",
+    "major": "Electrical Engineering"
+  },
+  "9741281991": {
+    "first_name": "Mallory",
+    "last_name": "White",
+    "address": "06805 Miller Isle Suite 693, West Lisa, MA 66893",
+    "class": "junior",
+    "dob": "2002-11-09",
+    "major": "Information Systems"
+  },
+  "2031983708": {
+    "first_name": "Paul",
+    "last_name": "Jones",
+    "address": "622 Nathan Prairie Apt. 108, Dawnland, WY 59977",
+    "class": "sophomore",
+    "dob": "2006-04-06",
+    "major": "Computer Science"
+  },
+  "5354094228": {
+    "first_name": "Samantha",
+    "last_name": "Martin",
+    "address": "Unit 3142 Box 2956, DPO AA 02845",
+    "class": "sophomore",
+    "dob": "2002-07-13",
+    "major": "Physics"
+  },
+  "4974003007": {
+    "first_name": "Valerie",
+    "last_name": "Cunningham",
+    "address": "3856 Elizabeth Fall, South Markstad, HI 76981",
+    "class": "junior",
+    "dob": "2004-10-30",
+    "major": "Mathematics"
+  },
+  "2843744199": {
+    "first_name": "Ashley",
+    "last_name": "Avila",
+    "address": "PSC 6598, Box 2351, APO AE 61979",
+    "class": "freshman",
+    "dob": "2004-12-14",
+    "major": "Electrical Engineering"
+  },
+  "1525377473": {
+    "first_name": "Jeff",
+    "last_name": "Oneal",
+    "address": "115 Maynard Corners, East Marieland, IN 34976",
+    "class": "junior",
+    "dob": "2002-11-28",
+    "major": "Mathematics"
+  },
+  "6241900683": {
+    "first_name": "Martha",
+    "last_name": "Hawkins",
+    "address": "546 Hall Turnpike Apt. 060, Forbesport, MI 91125",
+    "class": "freshman",
+    "dob": "2006-03-13",
+    "major": "Physics"
+  },
+  "4126087434": {
+    "first_name": "Hunter",
+    "last_name": "George",
+    "address": "2531 Fernandez Shores, North Annette, RI 98694",
+    "class": "freshman",
+    "dob": "2004-01-27",
+    "major": "Software Engineering"
+  },
+  "7125836922": {
+    "first_name": "Ryan",
+    "last_name": "Rodgers",
+    "address": "USCGC Gomez, FPO AE 69760",
+    "class": "junior",
+    "dob": "2004-05-12",
+    "major": "Mathematics"
+  },
+  "7793673221": {
+    "first_name": "Steven",
+    "last_name": "Harvey",
+    "address": "778 Charles Isle Suite 389, Morrisfort, WV 44255",
+    "class": "freshman",
+    "dob": "2004-09-14",
+    "major": "Cybersecurity"
+  },
+  "5047264262": {
+    "first_name": "Linda",
+    "last_name": "Beard",
+    "address": "9251 Andrew Land Suite 455, Haasland, ID 58254",
+    "class": "junior",
+    "dob": "2007-04-14",
+    "major": "Computer Engineering"
+  },
+  "0454592373": {
+    "first_name": "Michael",
+    "last_name": "Smith",
+    "address": "9584 Miller Row, Lifort, MI 79300",
+    "class": "junior",
+    "dob": "2007-02-15",
+    "major": "Computer Engineering"
+  },
+  "8534669869": {
+    "first_name": "Kristine",
+    "last_name": "Ramirez",
+    "address": "792 Jones Extensions Apt. 738, Silvamouth, KY 49472",
+    "class": "junior",
+    "dob": "2005-01-08",
+    "major": "Computer Science"
+  },
+  "8321434743": {
+    "first_name": "Wesley",
+    "last_name": "Galvan",
+    "address": "43994 Teresa Unions Suite 275, New Edward, LA 47608",
+    "class": "sophomore",
+    "dob": "2004-05-07",
+    "major": "Data Science"
+  },
+  "7163936236": {
+    "first_name": "Francis",
+    "last_name": "Greene",
+    "address": "5831 Sarah Forest Suite 288, North Sarahside, RI 65639",
+    "class": "sophomore",
+    "dob": "2003-02-07",
+    "major": "Software Engineering"
+  },
+  "4291419380": {
+    "first_name": "Dana",
+    "last_name": "Robinson",
+    "address": "44638 Mathis Route, Taylorfurt, OH 29852",
+    "class": "freshman",
+    "dob": "2002-07-21",
+    "major": "Software Engineering"
+  },
+  "0722714806": {
+    "first_name": "Michael",
+    "last_name": "Henry",
+    "address": "94748 Ryan Creek, Jeffbury, AL 26147",
+    "class": "freshman",
+    "dob": "2005-08-02",
+    "major": "Artificial Intelligence"
+  },
+  "6441300331": {
+    "first_name": "Nicole",
+    "last_name": "Butler",
+    "address": "0168 King Highway Apt. 700, South Calebton, SC 44795",
+    "class": "freshman",
+    "dob": "2006-06-22",
+    "major": "Physics"
+  },
+  "1075575184": {
+    "first_name": "William",
+    "last_name": "Wright",
+    "address": "5870 Freeman Course, Wilsonmouth, ND 99747",
+    "class": "freshman",
+    "dob": "2004-01-28",
+    "major": "Data Science"
+  },
+  "7599170383": {
+    "first_name": "Francisco",
+    "last_name": "Coleman",
+    "address": "859 Hoffman Corner Suite 612, Lake Robertland, AZ 09428",
+    "class": "freshman",
+    "dob": "2003-01-06",
+    "major": "Artificial Intelligence"
+  },
+  "7519867920": {
+    "first_name": "Jillian",
+    "last_name": "Mcgrath",
+    "address": "2605 Scott Terrace, West Melinda, DC 49473",
+    "class": "freshman",
+    "dob": "2005-08-10",
+    "major": "Electrical Engineering"
+  },
+  "0479304828": {
+    "first_name": "Jessica",
+    "last_name": "Wong",
+    "address": "12356 Daniels Burg Suite 481, Phillipstown, NH 74765",
+    "class": "sophomore",
+    "dob": "2005-03-24",
+    "major": "Information Systems"
+  },
+  "1821834157": {
+    "first_name": "James",
+    "last_name": "Hendrix",
+    "address": "8063 Brittney Place, Baileyberg, WY 77990",
+    "class": "junior",
+    "dob": "2002-11-17",
+    "major": "Computer Science"
+  },
+  "6821943941": {
+    "first_name": "Jessica",
+    "last_name": "Ward",
+    "address": "Unit 8390 Box 0904, DPO AE 88162",
+    "class": "junior",
+    "dob": "2006-04-18",
+    "major": "Cybersecurity"
+  },
+  "7885212901": {
+    "first_name": "Jeanette",
+    "last_name": "Carroll",
+    "address": "00108 Brown Spur, Tinaton, MN 16438",
+    "class": "junior",
+    "dob": "2003-12-13",
+    "major": "Physics"
+  },
+  "3204611824": {
+    "first_name": "William",
+    "last_name": "Valdez",
+    "address": "6153 Arnold Harbors Apt. 531, Lake Andrea, MO 29526",
+    "class": "junior",
+    "dob": "2004-08-04",
+    "major": "Cybersecurity"
+  },
+  "4924701501": {
+    "first_name": "Mary",
+    "last_name": "Miller",
+    "address": "PSC 2574, Box 3181, APO AA 29506",
+    "class": "junior",
+    "dob": "2003-08-11",
+    "major": "Information Systems"
+  },
+  "0800736604": {
+    "first_name": "Dawn",
+    "last_name": "Chavez",
+    "address": "7825 Edward Dam, Huangtown, CA 17666",
+    "class": "freshman",
+    "dob": "2005-05-03",
+    "major": "Software Engineering"
+  },
+  "6535280380": {
+    "first_name": "Jennifer",
+    "last_name": "Sanchez",
+    "address": "30766 Jennifer Orchard, East Wendy, SD 04733",
+    "class": "sophomore",
+    "dob": "2003-08-29",
+    "major": "Software Engineering"
+  },
+  "7765731263": {
+    "first_name": "William",
+    "last_name": "Mills",
+    "address": "9316 Lance Heights, Port Gerald, WA 50569",
+    "class": "sophomore",
+    "dob": "2004-10-23",
+    "major": "Electrical Engineering"
+  },
+  "1815131110": {
+    "first_name": "Nathan",
+    "last_name": "Weber",
+    "address": "3788 Pamela Isle, Lisamouth, OK 94597",
+    "class": "senior",
+    "dob": "2003-07-25",
+    "major": "Software Engineering"
+  },
+  "4121755283": {
+    "first_name": "Trevor",
+    "last_name": "Kelly",
+    "address": "USS Rodriguez, FPO AE 17544",
+    "class": "senior",
+    "dob": "2002-10-14",
+    "major": "Computer Science"
+  },
+  "6054643930": {
+    "first_name": "Brooke",
+    "last_name": "Gay",
+    "address": "52588 Bryan Parkways Apt. 274, East Randall, MS 58178",
+    "class": "senior",
+    "dob": "2004-12-02",
+    "major": "Mathematics"
+  },
+  "2175406252": {
+    "first_name": "Donna",
+    "last_name": "Gonzales",
+    "address": "776 Lisa Mission Apt. 189, Cantrellshire, SD 20128",
+    "class": "senior",
+    "dob": "2004-12-22",
+    "major": "Artificial Intelligence"
+  },
+  "5867483427": {
+    "first_name": "Todd",
+    "last_name": "Williams",
+    "address": "9506 Crawford Shore Apt. 958, Port Madison, MD 65247",
+    "class": "sophomore",
+    "dob": "2004-06-09",
+    "major": "Cybersecurity"
+  },
+  "9898646063": {
+    "first_name": "Keith",
+    "last_name": "Wilson",
+    "address": "9906 Nicole Well, West Matthewbury, OH 83301",
+    "class": "junior",
+    "dob": "2006-01-12",
+    "major": "Computer Science"
+  },
+  "1816210329": {
+    "first_name": "Nancy",
+    "last_name": "Flores",
+    "address": "715 Fuller Haven Suite 263, South Omarberg, NJ 04360",
+    "class": "freshman",
+    "dob": "2003-03-17",
+    "major": "Software Engineering"
+  },
+  "2501806495": {
+    "first_name": "Kristin",
+    "last_name": "Ball",
+    "address": "Unit 6248 Box 1362, DPO AA 28089",
+    "class": "junior",
+    "dob": "2003-06-24",
+    "major": "Electrical Engineering"
+  },
+  "4858084420": {
+    "first_name": "Javier",
+    "last_name": "Rich",
+    "address": "PSC 2425, Box 0475, APO AE 01166",
+    "class": "freshman",
+    "dob": "2005-05-20",
+    "major": "Data Science"
+  },
+  "3950068561": {
+    "first_name": "Erin",
+    "last_name": "Bean",
+    "address": "467 Nelson Ridge, Lake Rose, DC 39315",
+    "class": "senior",
+    "dob": "2006-12-18",
+    "major": "Mathematics"
+  },
+  "8855096954": {
+    "first_name": "Kayla",
+    "last_name": "Green",
+    "address": "810 Kristine Pine, North Aaronfurt, SC 75527",
+    "class": "junior",
+    "dob": "2006-01-17",
+    "major": "Physics"
+  },
+  "8408884074": {
+    "first_name": "Jared",
+    "last_name": "Cruz",
+    "address": "56891 Taylor Groves, Lake Rogerland, CA 28680",
+    "class": "senior",
+    "dob": "2002-07-06",
+    "major": "Artificial Intelligence"
+  },
+  "2561218749": {
+    "first_name": "George",
+    "last_name": "Anderson",
+    "address": "23134 Kendra Common Suite 722, Nancyport, ID 97407",
+    "class": "sophomore",
+    "dob": "2005-04-10",
+    "major": "Electrical Engineering"
+  },
+  "7785633570": {
+    "first_name": "James",
+    "last_name": "Garcia",
+    "address": "0918 Sharon Divide Apt. 561, East Donna, NV 72028",
+    "class": "junior",
+    "dob": "2003-10-23",
+    "major": "Cybersecurity"
+  },
+  "8965952468": {
+    "first_name": "Kimberly",
+    "last_name": "Garrison",
+    "address": "1651 Kathryn Plains Apt. 516, Lake Kimberlyton, ME 67638",
+    "class": "senior",
+    "dob": "2006-05-11",
+    "major": "Electrical Engineering"
+  },
+  "1040358313": {
+    "first_name": "Michele",
+    "last_name": "Contreras",
+    "address": "54411 Coleman Tunnel Suite 626, Mcdanielfort, GA 56773",
+    "class": "senior",
+    "dob": "2004-03-30",
+    "major": "Information Systems"
+  },
+  "2451744329": {
+    "first_name": "Andrew",
+    "last_name": "Larson",
+    "address": "241 Raymond Pass Apt. 883, Port Caseymouth, MI 12966",
+    "class": "sophomore",
+    "dob": "2002-10-30",
+    "major": "Artificial Intelligence"
+  },
+  "9844911503": {
+    "first_name": "Mary",
+    "last_name": "Perez",
+    "address": "800 Angela Light, North Alicia, IN 04349",
+    "class": "senior",
+    "dob": "2004-10-27",
+    "major": "Software Engineering"
+  },
+  "6665906621": {
+    "first_name": "Cheryl",
+    "last_name": "Bond",
+    "address": "0245 Michael Square Suite 924, East Rebeccastad, VT 25665",
+    "class": "sophomore",
+    "dob": "2006-03-05",
+    "major": "Information Systems"
+  },
+  "9240512667": {
+    "first_name": "Heather",
+    "last_name": "Thomas",
+    "address": "993 Diana Stream Apt. 045, North Josephhaven, AL 92163",
+    "class": "sophomore",
+    "dob": "2005-10-28",
+    "major": "Mathematics"
+  },
+  "9253871994": {
+    "first_name": "Joseph",
+    "last_name": "Jackson",
+    "address": "317 Robert Neck, Leslieberg, PA 75077",
+    "class": "junior",
+    "dob": "2006-02-14",
+    "major": "Software Engineering"
+  },
+  "9747779071": {
+    "first_name": "Heather",
+    "last_name": "Brown",
+    "address": "4122 Susan Mount Apt. 902, South Wesleyview, MN 71827",
+    "class": "senior",
+    "dob": "2004-04-19",
+    "major": "Physics"
+  },
+  "3668756467": {
+    "first_name": "Jonathan",
+    "last_name": "Davis",
+    "address": "573 Amanda Canyon, South Travisbury, LA 79726",
+    "class": "sophomore",
+    "dob": "2007-03-22",
+    "major": "Physics"
+  },
+  "9195434669": {
+    "first_name": "William",
+    "last_name": "Walker",
+    "address": "257 Howard Club, Stephaniehaven, KY 02815",
+    "class": "sophomore",
+    "dob": "2002-07-31",
+    "major": "Mathematics"
+  },
+  "8847955464": {
+    "first_name": "Brian",
+    "last_name": "Downs",
+    "address": "USCGC Davis, FPO AE 57425",
+    "class": "sophomore",
+    "dob": "2007-04-14",
+    "major": "Data Science"
+  },
+  "1613588390": {
+    "first_name": "Charles",
+    "last_name": "Lee",
+    "address": "757 Gutierrez Stravenue, East Joshuachester, MA 28054",
+    "class": "junior",
+    "dob": "2005-12-01",
+    "major": "Artificial Intelligence"
+  },
+  "1335461497": {
+    "first_name": "John",
+    "last_name": "Edwards",
+    "address": "207 Gregory Pine Suite 685, Callahanchester, IN 19420",
+    "class": "junior",
+    "dob": "2003-06-18",
+    "major": "Cybersecurity"
+  },
+  "0037622003": {
+    "first_name": "John",
+    "last_name": "Lawson",
+    "address": "0559 Marks Cliff, Jacobmouth, MA 80820",
+    "class": "senior",
+    "dob": "2003-12-07",
+    "major": "Mathematics"
+  },
+  "3956323984": {
+    "first_name": "Amber",
+    "last_name": "Harrison",
+    "address": "19542 Smith Run Suite 925, East Carlos, WA 78328",
+    "class": "sophomore",
+    "dob": "2003-01-25",
+    "major": "Computer Engineering"
+  },
+  "5978643112": {
+    "first_name": "Michael",
+    "last_name": "Brown",
+    "address": "PSC 3090, Box 7631, APO AA 14904",
+    "class": "senior",
+    "dob": "2006-01-19",
+    "major": "Software Engineering"
+  },
+  "9726788980": {
+    "first_name": "Holly",
+    "last_name": "Miller",
+    "address": "858 Ian Harbor, Danielsville, ME 62628",
+    "class": "senior",
+    "dob": "2003-04-21",
+    "major": "Electrical Engineering"
+  },
+  "8924973942": {
+    "first_name": "Tommy",
+    "last_name": "Clark",
+    "address": "6834 Bond Isle Apt. 757, Andreafort, MO 63267",
+    "class": "senior",
+    "dob": "2006-04-03",
+    "major": "Artificial Intelligence"
+  },
+  "2382859638": {
+    "first_name": "Richard",
+    "last_name": "Ingram",
+    "address": "PSC 4653, Box 7574, APO AA 81246",
+    "class": "senior",
+    "dob": "2002-12-31",
+    "major": "Data Science"
+  },
+  "9760401077": {
+    "first_name": "Matthew",
+    "last_name": "Smith",
+    "address": "0005 Brown Square, Rachelton, NH 64803",
+    "class": "junior",
+    "dob": "2002-12-05",
+    "major": "Computer Engineering"
+  },
+  "6638734279": {
+    "first_name": "Erin",
+    "last_name": "Rogers",
+    "address": "2215 Pearson Village, Rogerton, NJ 92606",
+    "class": "freshman",
+    "dob": "2004-10-27",
+    "major": "Artificial Intelligence"
+  },
+  "6815206180": {
+    "first_name": "Heidi",
+    "last_name": "Collins",
+    "address": "12186 Hayley Springs, Hannahbury, NE 15299",
+    "class": "freshman",
+    "dob": "2004-12-09",
+    "major": "Computer Science"
+  },
+  "3119936111": {
+    "first_name": "Steven",
+    "last_name": "Oliver",
+    "address": "5013 Davis Rue, Rossburgh, WI 78595",
+    "class": "sophomore",
+    "dob": "2005-09-08",
+    "major": "Data Science"
+  },
+  "1796879166": {
+    "first_name": "Nicholas",
+    "last_name": "Gonzalez",
+    "address": "231 Juarez Valley Suite 698, Lake Ashley, NE 38945",
+    "class": "sophomore",
+    "dob": "2005-10-17",
+    "major": "Computer Engineering"
+  },
+  "4045407456": {
+    "first_name": "Patricia",
+    "last_name": "Williams",
+    "address": "7074 Moore Landing Apt. 106, Port Joseph, NY 88358",
+    "class": "freshman",
+    "dob": "2003-08-27",
+    "major": "Information Systems"
+  },
+  "9920594347": {
+    "first_name": "Richard",
+    "last_name": "Cook",
+    "address": "134 English Ranch Suite 739, New Adamland, AL 63494",
+    "class": "sophomore",
+    "dob": "2005-07-09",
+    "major": "Mathematics"
+  },
+  "9550849522": {
+    "first_name": "Sarah",
+    "last_name": "Blackburn",
+    "address": "907 Heather Points Suite 857, South Traceyville, IL 23836",
+    "class": "sophomore",
+    "dob": "2005-08-18",
+    "major": "Mathematics"
+  },
+  "8102332905": {
+    "first_name": "Jodi",
+    "last_name": "Wallace",
+    "address": "516 Brian Motorway Suite 154, North Bruceborough, SC 40711",
+    "class": "junior",
+    "dob": "2005-12-15",
+    "major": "Information Systems"
+  },
+  "3043362429": {
+    "first_name": "Randy",
+    "last_name": "Poole",
+    "address": "863 Theresa Motorway, Brittanychester, AZ 03507",
+    "class": "sophomore",
+    "dob": "2003-11-01",
+    "major": "Mathematics"
+  },
+  "8595231643": {
+    "first_name": "Justin",
+    "last_name": "Schmidt",
+    "address": "892 Darren Gateway, Kingtown, MS 22651",
+    "class": "freshman",
+    "dob": "2005-02-13",
+    "major": "Software Engineering"
+  },
+  "1946086401": {
+    "first_name": "Aaron",
+    "last_name": "White",
+    "address": "2808 Decker Loaf, South Larry, AZ 17965",
+    "class": "freshman",
+    "dob": "2002-11-04",
+    "major": "Cybersecurity"
+  },
+  "4199857824": {
+    "first_name": "Andrea",
+    "last_name": "Phillips",
+    "address": "995 Greene Mills, East Patrickburgh, AK 20495",
+    "class": "junior",
+    "dob": "2006-04-10",
+    "major": "Cybersecurity"
+  },
+  "5824884700": {
+    "first_name": "Jared",
+    "last_name": "Ford",
+    "address": "6406 Maxwell Mission, Jamieton, GA 91676",
+    "class": "senior",
+    "dob": "2004-06-11",
+    "major": "Computer Engineering"
+  },
+  "1264053858": {
+    "first_name": "Henry",
+    "last_name": "Williams",
+    "address": "772 Richardson Fields, Port Georgeview, OH 37657",
+    "class": "freshman",
+    "dob": "2007-01-19",
+    "major": "Mathematics"
+  },
+  "5210661636": {
+    "first_name": "David",
+    "last_name": "Camacho",
+    "address": "Unit 3437 Box 4957, DPO AP 63143",
+    "class": "senior",
+    "dob": "2005-07-13",
+    "major": "Information Systems"
+  },
+  "7389489000": {
+    "first_name": "Rebecca",
+    "last_name": "Hamilton",
+    "address": "265 Lindsay Unions, Lake Todd, MT 44997",
+    "class": "junior",
+    "dob": "2006-05-30",
+    "major": "Mathematics"
+  },
+  "5192752249": {
+    "first_name": "Matthew",
+    "last_name": "Buckley",
+    "address": "USS Ramos, FPO AA 96321",
+    "class": "sophomore",
+    "dob": "2005-05-07",
+    "major": "Mathematics"
+  },
+  "2778892053": {
+    "first_name": "Mark",
+    "last_name": "Sanders",
+    "address": "261 Edwin Creek Apt. 584, East Travis, IA 84749",
+    "class": "junior",
+    "dob": "2003-03-28",
+    "major": "Software Engineering"
+  },
+  "9324815943": {
+    "first_name": "Donald",
+    "last_name": "Arnold",
+    "address": "6356 Natalie Well, Whitakerport, AR 52440",
+    "class": "sophomore",
+    "dob": "2003-09-23",
+    "major": "Physics"
+  },
+  "2617278271": {
+    "first_name": "William",
+    "last_name": "Pearson",
+    "address": "4194 Krista Circle, North Samanthashire, DC 51420",
+    "class": "freshman",
+    "dob": "2005-06-19",
+    "major": "Mathematics"
+  },
+  "0842799489": {
+    "first_name": "Matthew",
+    "last_name": "Lewis",
+    "address": "29387 Hernandez Loop, Morganborough, NH 76520",
+    "class": "freshman",
+    "dob": "2003-03-13",
+    "major": "Electrical Engineering"
+  },
+  "5888143783": {
+    "first_name": "Bruce",
+    "last_name": "Glover",
+    "address": "705 Kathleen Burgs Apt. 071, Joanview, SD 18708",
+    "class": "sophomore",
+    "dob": "2006-06-03",
+    "major": "Information Systems"
+  },
+  "3246423561": {
+    "first_name": "Tiffany",
+    "last_name": "Hodge",
+    "address": "29377 Christopher Loaf, Lake Hollytown, GA 77771",
+    "class": "junior",
+    "dob": "2007-02-17",
+    "major": "Information Systems"
+  },
+  "8513041230": {
+    "first_name": "William",
+    "last_name": "Martin",
+    "address": "Unit 1108 Box 7835, DPO AA 51846",
+    "class": "junior",
+    "dob": "2004-09-17",
+    "major": "Cybersecurity"
+  },
+  "7739367773": {
+    "first_name": "Kristin",
+    "last_name": "Davis",
+    "address": "4321 Wallace Tunnel Suite 244, South Brian, MD 47080",
+    "class": "senior",
+    "dob": "2002-09-04",
+    "major": "Data Science"
+  },
+  "8461187266": {
+    "first_name": "Melanie",
+    "last_name": "Yang",
+    "address": "947 Horne Mill Suite 455, New Amy, SC 02514",
+    "class": "senior",
+    "dob": "2007-03-16",
+    "major": "Electrical Engineering"
+  },
+  "5574894713": {
+    "first_name": "John",
+    "last_name": "Cook",
+    "address": "152 Jason Point, Deborahhaven, MI 46166",
+    "class": "junior",
+    "dob": "2006-03-27",
+    "major": "Electrical Engineering"
+  },
+  "0185366614": {
+    "first_name": "Brian",
+    "last_name": "Gonzalez",
+    "address": "46631 Brennan Locks, Gonzaleztown, AZ 27965",
+    "class": "freshman",
+    "dob": "2006-10-02",
+    "major": "Cybersecurity"
+  },
+  "1950059267": {
+    "first_name": "Matthew",
+    "last_name": "Perez",
+    "address": "723 David Center, East Andrewland, TN 91327",
+    "class": "junior",
+    "dob": "2006-09-06",
+    "major": "Physics"
+  },
+  "4601511987": {
+    "first_name": "Matthew",
+    "last_name": "Ortega",
+    "address": "8830 Jacobs Knoll Apt. 163, South Cynthia, DE 80366",
+    "class": "sophomore",
+    "dob": "2007-04-27",
+    "major": "Computer Engineering"
+  },
+  "8250199537": {
+    "first_name": "Kimberly",
+    "last_name": "Gross",
+    "address": "57669 Larry Summit, Jonesbury, SC 62385",
+    "class": "sophomore",
+    "dob": "2004-01-09",
+    "major": "Data Science"
+  },
+  "4595659855": {
+    "first_name": "Andre",
+    "last_name": "Dodson",
+    "address": "68861 Brown Unions Suite 532, Port Vickie, MT 86661",
+    "class": "freshman",
+    "dob": "2002-07-23",
+    "major": "Cybersecurity"
+  },
+  "7079475486": {
+    "first_name": "Emily",
+    "last_name": "Harrell",
+    "address": "651 Newman Manors Suite 911, Davismouth, PA 12933",
+    "class": "freshman",
+    "dob": "2003-09-17",
+    "major": "Artificial Intelligence"
+  },
+  "4115532786": {
+    "first_name": "Rebecca",
+    "last_name": "Malone",
+    "address": "28047 Bailey Squares, Gregoryville, NV 26979",
+    "class": "junior",
+    "dob": "2005-09-24",
+    "major": "Artificial Intelligence"
+  },
+  "1569211700": {
+    "first_name": "Michael",
+    "last_name": "Bell",
+    "address": "73736 Weaver Islands Suite 177, Mariaville, OR 35550",
+    "class": "sophomore",
+    "dob": "2006-05-14",
+    "major": "Information Systems"
+  },
+  "8454143806": {
+    "first_name": "Anthony",
+    "last_name": "Abbott",
+    "address": "460 Nelson Stream Apt. 493, Lake Jessicaburgh, NJ 03343",
+    "class": "junior",
+    "dob": "2002-07-12",
+    "major": "Mathematics"
+  },
+  "3025651036": {
+    "first_name": "Michael",
+    "last_name": "Miller",
+    "address": "7031 Klein Pike, New Kristenton, KY 71320",
+    "class": "sophomore",
+    "dob": "2004-08-06",
+    "major": "Software Engineering"
+  },
+  "9867521531": {
+    "first_name": "Robert",
+    "last_name": "Jordan",
+    "address": "69639 Justin Flats Suite 549, South Richard, CA 13046",
+    "class": "senior",
+    "dob": "2006-09-13",
+    "major": "Mathematics"
+  },
+  "8821437148": {
+    "first_name": "Laura",
+    "last_name": "Lewis",
+    "address": "28883 Curtis Fort, Port David, ME 30714",
+    "class": "sophomore",
+    "dob": "2007-03-25",
+    "major": "Data Science"
+  },
+  "8447180985": {
+    "first_name": "Jason",
+    "last_name": "Boyle",
+    "address": "50672 Strong Circles Suite 276, Escobarland, PA 68760",
+    "class": "senior",
+    "dob": "2003-08-26",
+    "major": "Computer Science"
+  },
+  "9519159866": {
+    "first_name": "Kevin",
+    "last_name": "Alvarado",
+    "address": "665 Malone Union Apt. 323, Charlesfurt, NV 33546",
+    "class": "sophomore",
+    "dob": "2006-12-05",
+    "major": "Cybersecurity"
+  },
+  "8144694888": {
+    "first_name": "Paul",
+    "last_name": "Smith",
+    "address": "053 Marquez Plain Suite 180, South Christopher, PA 55207",
+    "class": "junior",
+    "dob": "2006-04-18",
+    "major": "Artificial Intelligence"
+  },
+  "5528336544": {
+    "first_name": "Michael",
+    "last_name": "Martinez",
+    "address": "952 Catherine Valley, Bradleyville, NC 37322",
+    "class": "sophomore",
+    "dob": "2004-03-23",
+    "major": "Information Systems"
+  },
+  "2349484952": {
+    "first_name": "Thomas",
+    "last_name": "Murphy",
+    "address": "99248 Rios Route, South Charlesmouth, NM 15313",
+    "class": "senior",
+    "dob": "2003-10-03",
+    "major": "Computer Engineering"
+  },
+  "9319744187": {
+    "first_name": "April",
+    "last_name": "Martinez",
+    "address": "13875 Nguyen Pike Apt. 915, Hallstad, NM 54197",
+    "class": "freshman",
+    "dob": "2004-04-25",
+    "major": "Artificial Intelligence"
+  },
+  "9019860481": {
+    "first_name": "William",
+    "last_name": "Oconnell",
+    "address": "2611 Pollard Locks, Crystalmouth, PA 40614",
+    "class": "sophomore",
+    "dob": "2003-04-28",
+    "major": "Software Engineering"
+  },
+  "8340100596": {
+    "first_name": "Cassandra",
+    "last_name": "Arellano",
+    "address": "361 Moore Glens Suite 023, Walshhaven, VA 59666",
+    "class": "freshman",
+    "dob": "2002-07-15",
+    "major": "Information Systems"
+  },
+  "6401758458": {
+    "first_name": "Brianna",
+    "last_name": "Gutierrez",
+    "address": "USNS Goodman, FPO AA 81059",
+    "class": "freshman",
+    "dob": "2003-06-17",
+    "major": "Mathematics"
+  },
+  "7634778084": {
+    "first_name": "Paul",
+    "last_name": "Parks",
+    "address": "574 Mason Springs Suite 558, Lake Nathanstad, WY 22775",
+    "class": "junior",
+    "dob": "2006-01-27",
+    "major": "Cybersecurity"
+  },
+  "6316049931": {
+    "first_name": "Kim",
+    "last_name": "Hicks",
+    "address": "0276 Porter Parks, Meganberg, VT 20388",
+    "class": "freshman",
+    "dob": "2002-10-04",
+    "major": "Mathematics"
+  },
+  "5166453667": {
+    "first_name": "David",
+    "last_name": "Reynolds",
+    "address": "85664 Nichols Square, Port Ricky, OH 27594",
+    "class": "junior",
+    "dob": "2006-06-28",
+    "major": "Mathematics"
+  },
+  "8146228998": {
+    "first_name": "Robert",
+    "last_name": "Valdez",
+    "address": "0068 Mary Street, Lake Brentborough, MI 63615",
+    "class": "freshman",
+    "dob": "2004-03-27",
+    "major": "Physics"
+  },
+  "4822358539": {
+    "first_name": "Jared",
+    "last_name": "Bruce",
+    "address": "525 Quinn Prairie Suite 397, Stevefort, KS 65224",
+    "class": "senior",
+    "dob": "2004-03-13",
+    "major": "Information Systems"
+  },
+  "6203269027": {
+    "first_name": "Marcus",
+    "last_name": "Wilson",
+    "address": "628 Allen Island, Danieltown, MO 42226",
+    "class": "senior",
+    "dob": "2004-09-23",
+    "major": "Computer Science"
+  },
+  "0080948073": {
+    "first_name": "April",
+    "last_name": "Pope",
+    "address": "2017 Lindsey Avenue Suite 114, North Rachaeltown, NM 91971",
+    "class": "freshman",
+    "dob": "2005-05-10",
+    "major": "Electrical Engineering"
+  },
+  "8807237642": {
+    "first_name": "Monica",
+    "last_name": "Perez",
+    "address": "75559 Gabriel Ferry Suite 452, Smithshire, CA 62013",
+    "class": "junior",
+    "dob": "2003-11-08",
+    "major": "Computer Engineering"
+  },
+  "9440333484": {
+    "first_name": "Elizabeth",
+    "last_name": "Oneill",
+    "address": "9497 Huynh Via Apt. 959, New James, HI 28479",
+    "class": "junior",
+    "dob": "2006-09-28",
+    "major": "Physics"
+  },
+  "6479339034": {
+    "first_name": "Christopher",
+    "last_name": "White",
+    "address": "24949 Beck Circles Apt. 200, South Thomasbury, PA 73524",
+    "class": "junior",
+    "dob": "2003-01-15",
+    "major": "Cybersecurity"
+  },
+  "7977276139": {
+    "first_name": "Matthew",
+    "last_name": "Braun",
+    "address": "1720 Mejia Ports, East Leslieshire, NC 23828",
+    "class": "freshman",
+    "dob": "2004-11-27",
+    "major": "Cybersecurity"
+  },
+  "4807798624": {
+    "first_name": "Jennifer",
+    "last_name": "Townsend",
+    "address": "172 Gross Tunnel Suite 001, Davidsonburgh, MN 97550",
+    "class": "senior",
+    "dob": "2005-11-03",
+    "major": "Software Engineering"
+  },
+  "7275476140": {
+    "first_name": "John",
+    "last_name": "Adams",
+    "address": "PSC 1594, Box 3025, APO AE 50047",
+    "class": "sophomore",
+    "dob": "2003-02-25",
+    "major": "Computer Science"
+  },
+  "6685998043": {
+    "first_name": "Grant",
+    "last_name": "Watts",
+    "address": "8082 Glen Lodge, Lake Leslie, AR 84857",
+    "class": "junior",
+    "dob": "2007-05-28",
+    "major": "Physics"
+  },
+  "7451452375": {
+    "first_name": "Jacob",
+    "last_name": "Nelson",
+    "address": "885 Tina Dale Suite 450, East Ronald, HI 61539",
+    "class": "freshman",
+    "dob": "2005-08-28",
+    "major": "Data Science"
+  },
+  "4812632382": {
+    "first_name": "Donald",
+    "last_name": "Hansen",
+    "address": "486 Mcintosh Parkway, Anthonyhaven, NC 85378",
+    "class": "sophomore",
+    "dob": "2004-05-04",
+    "major": "Physics"
+  },
+  "1860294900": {
+    "first_name": "Jacob",
+    "last_name": "David",
+    "address": "33353 Sabrina Landing Apt. 822, Port Tara, WY 17972",
+    "class": "junior",
+    "dob": "2005-09-05",
+    "major": "Information Systems"
+  },
+  "8391666611": {
+    "first_name": "Michael",
+    "last_name": "Howell",
+    "address": "9167 Terri Garden Suite 728, Owenshire, ME 48250",
+    "class": "junior",
+    "dob": "2002-10-20",
+    "major": "Mathematics"
+  },
+  "3887788777": {
+    "first_name": "John",
+    "last_name": "Hall",
+    "address": "60135 Amy Canyon, South Prestonberg, SD 62888",
+    "class": "junior",
+    "dob": "2005-01-03",
+    "major": "Software Engineering"
+  },
+  "8655213342": {
+    "first_name": "Tracy",
+    "last_name": "Harris",
+    "address": "71551 Roach Stream Suite 330, West Dustin, AK 77744",
+    "class": "senior",
+    "dob": "2004-09-26",
+    "major": "Electrical Engineering"
+  },
+  "1390886659": {
+    "first_name": "Diane",
+    "last_name": "Patel",
+    "address": "7338 Vincent Islands, South Michaelstad, RI 19819",
+    "class": "senior",
+    "dob": "2002-07-15",
+    "major": "Data Science"
+  },
+  "0099045598": {
+    "first_name": "Justin",
+    "last_name": "Berger",
+    "address": "79923 Brandon Canyon, West Courtney, NV 52484",
+    "class": "freshman",
+    "dob": "2007-01-22",
+    "major": "Physics"
+  },
+  "3967461924": {
+    "first_name": "Randy",
+    "last_name": "Zimmerman",
+    "address": "571 Johnny Road, Parkerburgh, NM 44297",
+    "class": "senior",
+    "dob": "2007-05-17",
+    "major": "Computer Science"
+  },
+  "2088626523": {
+    "first_name": "Ashley",
+    "last_name": "Gentry",
+    "address": "USNS Peters, FPO AE 37421",
+    "class": "sophomore",
+    "dob": "2006-09-09",
+    "major": "Software Engineering"
+  },
+  "5230238495": {
+    "first_name": "Kayla",
+    "last_name": "Henderson",
+    "address": "95208 Nicole Streets, Lake Jacobside, AK 72114",
+    "class": "junior",
+    "dob": "2003-08-13",
+    "major": "Artificial Intelligence"
+  },
+  "8476044204": {
+    "first_name": "Heather",
+    "last_name": "Morris",
+    "address": "540 Bowman Mountains, Michaelchester, FL 65726",
+    "class": "freshman",
+    "dob": "2005-09-17",
+    "major": "Electrical Engineering"
+  },
+  "4042065896": {
+    "first_name": "Joseph",
+    "last_name": "Price",
+    "address": "PSC 9669, Box 1974, APO AA 02285",
+    "class": "senior",
+    "dob": "2003-03-28",
+    "major": "Computer Engineering"
+  },
+  "8060858319": {
+    "first_name": "Daniel",
+    "last_name": "Jones",
+    "address": "02244 Allen Islands, Perezport, GA 82678",
+    "class": "senior",
+    "dob": "2005-10-05",
+    "major": "Mathematics"
+  },
+  "5310199357": {
+    "first_name": "Michael",
+    "last_name": "Rubio",
+    "address": "0520 Short Ridges Suite 063, East Amychester, PA 89172",
+    "class": "junior",
+    "dob": "2006-06-20",
+    "major": "Computer Engineering"
+  },
+  "0040591511": {
+    "first_name": "Katherine",
+    "last_name": "Casey",
+    "address": "45585 Walker Pass Suite 528, South Kimberly, NE 82854",
+    "class": "junior",
+    "dob": "2006-01-20",
+    "major": "Computer Engineering"
+  },
+  "9772933966": {
+    "first_name": "Mark",
+    "last_name": "Howell",
+    "address": "579 James Run Suite 706, South Jessica, ID 02904",
+    "class": "junior",
+    "dob": "2002-06-10",
+    "major": "Artificial Intelligence"
+  },
+  "0922179376": {
+    "first_name": "Alyssa",
+    "last_name": "Smith",
+    "address": "6959 Herbert Rapid Suite 532, East Gabrielhaven, IA 62906",
+    "class": "junior",
+    "dob": "2003-10-12",
+    "major": "Computer Science"
+  },
+  "9720882051": {
+    "first_name": "Lindsey",
+    "last_name": "Hurst",
+    "address": "0930 Tina Ridges, Lake Melissa, MT 12597",
+    "class": "senior",
+    "dob": "2003-03-14",
+    "major": "Mathematics"
+  },
+  "1789010219": {
+    "first_name": "Stacy",
+    "last_name": "Brennan",
+    "address": "04176 Katrina Point, Seanchester, CO 21791",
+    "class": "senior",
+    "dob": "2002-08-07",
+    "major": "Cybersecurity"
+  },
+  "6175794644": {
+    "first_name": "Luis",
+    "last_name": "Flores",
+    "address": "6479 Nicole Circles, Aarontown, CO 77122",
+    "class": "junior",
+    "dob": "2003-11-22",
+    "major": "Software Engineering"
+  },
+  "1578450783": {
+    "first_name": "Lindsay",
+    "last_name": "Gray",
+    "address": "53994 Wilson Cove Suite 003, New Melissa, NC 14682",
+    "class": "senior",
+    "dob": "2002-07-06",
+    "major": "Mathematics"
+  },
+  "8703403117": {
+    "first_name": "Jamie",
+    "last_name": "Evans",
+    "address": "70341 Christina Vista Apt. 625, Port Ericchester, LA 97373",
+    "class": "senior",
+    "dob": "2006-02-03",
+    "major": "Electrical Engineering"
+  },
+  "0058020615": {
+    "first_name": "Sandra",
+    "last_name": "Patterson",
+    "address": "USCGC Sanchez, FPO AA 10363",
+    "class": "sophomore",
+    "dob": "2004-02-23",
+    "major": "Cybersecurity"
+  },
+  "2088831621": {
+    "first_name": "Lisa",
+    "last_name": "Jones",
+    "address": "279 Walters Parkways Apt. 777, Bradland, IA 08354",
+    "class": "freshman",
+    "dob": "2004-09-05",
+    "major": "Software Engineering"
+  },
+  "6204348715": {
+    "first_name": "Jessica",
+    "last_name": "Stephens",
+    "address": "31490 Calvin Path Apt. 306, Justinville, NC 78575",
+    "class": "sophomore",
+    "dob": "2003-05-13",
+    "major": "Cybersecurity"
+  },
+  "5127681940": {
+    "first_name": "Richard",
+    "last_name": "Kirk",
+    "address": "7540 Edwards Mission Suite 760, Port James, RI 78187",
+    "class": "sophomore",
+    "dob": "2003-08-15",
+    "major": "Cybersecurity"
+  },
+  "0430249375": {
+    "first_name": "Thomas",
+    "last_name": "Zimmerman",
+    "address": "2739 Jeremy Viaduct Suite 122, North Teresaport, ND 83390",
+    "class": "senior",
+    "dob": "2005-11-10",
+    "major": "Artificial Intelligence"
+  },
+  "1360471099": {
+    "first_name": "Leah",
+    "last_name": "Butler",
+    "address": "5339 Shaffer Lights, Lake Nathan, CO 15740",
+    "class": "senior",
+    "dob": "2005-06-20",
+    "major": "Physics"
+  },
+  "5285643174": {
+    "first_name": "Kyle",
+    "last_name": "Dennis",
+    "address": "615 Beasley Fort Apt. 340, South Reginaldburgh, SC 73900",
+    "class": "freshman",
+    "dob": "2003-01-23",
+    "major": "Information Systems"
+  },
+  "1802092952": {
+    "first_name": "Angela",
+    "last_name": "Haas",
+    "address": "40750 Michael Glen, West Julie, KY 30900",
+    "class": "senior",
+    "dob": "2003-08-05",
+    "major": "Artificial Intelligence"
+  },
+  "1002734811": {
+    "first_name": "Sandra",
+    "last_name": "Castro",
+    "address": "71226 Stevens Viaduct, Allenfort, VT 96360",
+    "class": "junior",
+    "dob": "2002-10-28",
+    "major": "Computer Science"
+  },
+  "4039100291": {
+    "first_name": "Mary",
+    "last_name": "Lee",
+    "address": "99264 Stacy Avenue, Potterport, DC 54745",
+    "class": "sophomore",
+    "dob": "2005-12-16",
+    "major": "Information Systems"
+  },
+  "7109256721": {
+    "first_name": "Steven",
+    "last_name": "Murphy",
+    "address": "65451 Justin Port, Kellyborough, ND 66212",
+    "class": "junior",
+    "dob": "2006-06-15",
+    "major": "Cybersecurity"
+  },
+  "0516275850": {
+    "first_name": "Richard",
+    "last_name": "Marshall",
+    "address": "5115 Gardner Curve Apt. 730, North Chadland, WA 23938",
+    "class": "sophomore",
+    "dob": "2002-07-07",
+    "major": "Software Engineering"
+  },
+  "2421172652": {
+    "first_name": "Brandon",
+    "last_name": "Kennedy",
+    "address": "5498 Wilson Crescent Apt. 313, West Tiffany, MT 06955",
+    "class": "junior",
+    "dob": "2005-03-19",
+    "major": "Information Systems"
+  },
+  "0944664704": {
+    "first_name": "Tara",
+    "last_name": "Marshall",
+    "address": "951 Gonzales Stream Apt. 589, Silvachester, DC 66948",
+    "class": "senior",
+    "dob": "2002-12-28",
+    "major": "Computer Science"
+  },
+  "1706451864": {
+    "first_name": "Edward",
+    "last_name": "Mcclain",
+    "address": "2338 Danielle Road Suite 637, Port Josephfurt, VT 66226",
+    "class": "junior",
+    "dob": "2006-05-21",
+    "major": "Electrical Engineering"
+  },
+  "0414638422": {
+    "first_name": "Justin",
+    "last_name": "Hutchinson",
+    "address": "816 Jeremiah Common Apt. 411, North Jenniferhaven, NJ 69337",
+    "class": "sophomore",
+    "dob": "2007-04-05",
+    "major": "Electrical Engineering"
+  },
+  "7075756953": {
+    "first_name": "Marcus",
+    "last_name": "Johnson",
+    "address": "9732 Yoder Cove Apt. 418, Lake Christopher, AL 35526",
+    "class": "junior",
+    "dob": "2004-06-16",
+    "major": "Computer Science"
+  },
+  "8440124182": {
+    "first_name": "Catherine",
+    "last_name": "Khan",
+    "address": "87438 Rice Rapids Apt. 195, Micheleberg, PA 93888",
+    "class": "junior",
+    "dob": "2007-03-21",
+    "major": "Cybersecurity"
+  },
+  "1735952385": {
+    "first_name": "Jason",
+    "last_name": "Grant",
+    "address": "2404 Tracy View Suite 151, Bakerview, MA 54369",
+    "class": "sophomore",
+    "dob": "2002-06-19",
+    "major": "Information Systems"
+  },
+  "1078525371": {
+    "first_name": "Bryan",
+    "last_name": "Vasquez",
+    "address": "017 Terrence Key, Taylorport, ID 28022",
+    "class": "senior",
+    "dob": "2003-03-31",
+    "major": "Software Engineering"
+  },
+  "9247383090": {
+    "first_name": "Robert",
+    "last_name": "Lee",
+    "address": "29173 Suzanne Union Apt. 776, Powersbury, LA 02864",
+    "class": "junior",
+    "dob": "2004-03-05",
+    "major": "Cybersecurity"
+  },
+  "5533695524": {
+    "first_name": "Julie",
+    "last_name": "Barnes",
+    "address": "164 Tyler Trace, Wardmouth, NY 87394",
+    "class": "junior",
+    "dob": "2007-04-16",
+    "major": "Information Systems"
+  },
+  "9862510644": {
+    "first_name": "Benjamin",
+    "last_name": "Diaz",
+    "address": "8905 Jesse Burg Suite 692, Bullockmouth, CT 01594",
+    "class": "sophomore",
+    "dob": "2004-05-26",
+    "major": "Mathematics"
+  },
+  "2562660219": {
+    "first_name": "Kevin",
+    "last_name": "Ramos",
+    "address": "21457 Conley Pike, Alexanderville, PA 25796",
+    "class": "junior",
+    "dob": "2005-03-24",
+    "major": "Software Engineering"
+  },
+  "8284052066": {
+    "first_name": "Alexander",
+    "last_name": "Williams",
+    "address": "4375 Clark Keys, Alejandroport, CA 65497",
+    "class": "sophomore",
+    "dob": "2006-11-10",
+    "major": "Data Science"
+  },
+  "1519172337": {
+    "first_name": "Ruth",
+    "last_name": "Oconnor",
+    "address": "5606 Marissa Views Suite 727, South Michelle, ME 94541",
+    "class": "sophomore",
+    "dob": "2005-12-06",
+    "major": "Mathematics"
+  },
+  "9023530526": {
+    "first_name": "Roger",
+    "last_name": "Blair",
+    "address": "995 William Land, Mirandamouth, VA 69771",
+    "class": "freshman",
+    "dob": "2004-09-29",
+    "major": "Electrical Engineering"
+  },
+  "9028574824": {
+    "first_name": "Rebecca",
+    "last_name": "Warren",
+    "address": "902 Maxwell Field Apt. 346, Lake Brycetown, IA 10998",
+    "class": "senior",
+    "dob": "2004-04-04",
+    "major": "Physics"
+  },
+  "9209445722": {
+    "first_name": "Kelly",
+    "last_name": "Smith",
+    "address": "3551 Kimberly Field, North Michael, IN 26898",
+    "class": "senior",
+    "dob": "2007-02-25",
+    "major": "Software Engineering"
+  },
+  "0052744686": {
+    "first_name": "Manuel",
+    "last_name": "Jordan",
+    "address": "38050 Nelson Station Apt. 499, Rubiostad, ND 81989",
+    "class": "sophomore",
+    "dob": "2003-09-13",
+    "major": "Electrical Engineering"
+  },
+  "2146282071": {
+    "first_name": "Curtis",
+    "last_name": "Mccall",
+    "address": "3906 Micheal Drives, Melindafurt, VA 68422",
+    "class": "junior",
+    "dob": "2006-05-02",
+    "major": "Physics"
+  },
+  "9013033925": {
+    "first_name": "Jeffrey",
+    "last_name": "Kennedy",
+    "address": "85645 Walsh Vista Apt. 893, Johnsonton, HI 79213",
+    "class": "senior",
+    "dob": "2006-11-20",
+    "major": "Mathematics"
+  },
+  "2646732716": {
+    "first_name": "Robert",
+    "last_name": "Logan",
+    "address": "101 Hamilton Walks, Amyborough, OR 92134",
+    "class": "sophomore",
+    "dob": "2005-12-13",
+    "major": "Information Systems"
+  },
+  "6673731395": {
+    "first_name": "Andrew",
+    "last_name": "Davis",
+    "address": "72144 Levine Court Suite 377, New Regina, UT 42330",
+    "class": "junior",
+    "dob": "2003-08-03",
+    "major": "Software Engineering"
+  },
+  "0425700915": {
+    "first_name": "Michael",
+    "last_name": "Hampton",
+    "address": "28497 Adam Way, North Lisa, CA 66905",
+    "class": "sophomore",
+    "dob": "2002-08-04",
+    "major": "Computer Engineering"
+  },
+  "1207367824": {
+    "first_name": "Teresa",
+    "last_name": "Weaver",
+    "address": "103 Glenda Tunnel Suite 390, North Misty, LA 82814",
+    "class": "sophomore",
+    "dob": "2003-10-31",
+    "major": "Artificial Intelligence"
+  },
+  "4496423419": {
+    "first_name": "Jason",
+    "last_name": "Hudson",
+    "address": "5422 Gail Dale Suite 827, West Samuel, WY 64365",
+    "class": "senior",
+    "dob": "2007-05-03",
+    "major": "Mathematics"
+  },
+  "4735109040": {
+    "first_name": "Paul",
+    "last_name": "Lambert",
+    "address": "67764 George Isle, New Amandachester, NC 31979",
+    "class": "junior",
+    "dob": "2004-01-25",
+    "major": "Cybersecurity"
+  },
+  "7595635623": {
+    "first_name": "Jennifer",
+    "last_name": "Smith",
+    "address": "64049 Tran Manors Apt. 054, Jimmyville, WV 66881",
+    "class": "senior",
+    "dob": "2006-12-09",
+    "major": "Computer Engineering"
+  },
+  "7357454068": {
+    "first_name": "John",
+    "last_name": "Banks",
+    "address": "96592 Davidson Pine Apt. 458, North Jesus, WY 51592",
+    "class": "junior",
+    "dob": "2003-07-06",
+    "major": "Cybersecurity"
+  },
+  "9697400144": {
+    "first_name": "Ashley",
+    "last_name": "Ho",
+    "address": "347 Jessica Path Apt. 936, Lonniechester, MS 87751",
+    "class": "sophomore",
+    "dob": "2004-10-25",
+    "major": "Data Science"
+  },
+  "7456135867": {
+    "first_name": "Angela",
+    "last_name": "Harris",
+    "address": "1015 Evans Trafficway, Lopezville, MA 72402",
+    "class": "junior",
+    "dob": "2006-06-21",
+    "major": "Computer Engineering"
+  },
+  "5567262850": {
+    "first_name": "Brian",
+    "last_name": "Morales",
+    "address": "874 Jackson Village Suite 502, Christopherstad, ME 13822",
+    "class": "junior",
+    "dob": "2006-10-15",
+    "major": "Artificial Intelligence"
+  },
+  "6284455426": {
+    "first_name": "Luke",
+    "last_name": "Williamson",
+    "address": "1284 Ashley Walks, West Janice, WY 40392",
+    "class": "senior",
+    "dob": "2003-06-27",
+    "major": "Artificial Intelligence"
+  },
+  "3272431391": {
+    "first_name": "Joseph",
+    "last_name": "Peterson",
+    "address": "25525 Marquez Knoll, Ericbury, FL 38047",
+    "class": "sophomore",
+    "dob": "2005-07-05",
+    "major": "Computer Engineering"
+  },
+  "0470043142": {
+    "first_name": "Matthew",
+    "last_name": "King",
+    "address": "1240 Kristin Spurs, Port Aaronberg, GA 62012",
+    "class": "freshman",
+    "dob": "2006-05-18",
+    "major": "Software Engineering"
+  },
+  "4549561740": {
+    "first_name": "Jessica",
+    "last_name": "Robinson",
+    "address": "5779 Romero View, Lake Jessicaview, NC 42001",
+    "class": "freshman",
+    "dob": "2007-04-15",
+    "major": "Mathematics"
+  },
+  "6160070621": {
+    "first_name": "Adam",
+    "last_name": "Hutchinson",
+    "address": "82522 Rebecca Pike Apt. 976, Kimberlyhaven, OK 56562",
+    "class": "sophomore",
+    "dob": "2006-03-04",
+    "major": "Information Systems"
+  },
+  "8507631609": {
+    "first_name": "Anthony",
+    "last_name": "Turner",
+    "address": "709 Bernard Lodge Suite 852, West Daniellemouth, MS 01904",
+    "class": "senior",
+    "dob": "2005-05-24",
+    "major": "Artificial Intelligence"
+  },
+  "6068474342": {
+    "first_name": "Joseph",
+    "last_name": "Gonzalez",
+    "address": "95399 Powell Passage, Port Marialand, VA 81377",
+    "class": "freshman",
+    "dob": "2003-07-10",
+    "major": "Electrical Engineering"
+  },
+  "6636994090": {
+    "first_name": "Eric",
+    "last_name": "Baker",
+    "address": "076 Cox Point, Johnsontown, CA 93844",
+    "class": "freshman",
+    "dob": "2004-06-07",
+    "major": "Computer Science"
+  },
+  "5772005802": {
+    "first_name": "Jeremy",
+    "last_name": "Valentine",
+    "address": "Unit 8327 Box 8023, DPO AE 45002",
+    "class": "sophomore",
+    "dob": "2006-03-11",
+    "major": "Information Systems"
+  },
+  "3667821873": {
+    "first_name": "Elizabeth",
+    "last_name": "Brady",
+    "address": "91776 Padilla Pine Apt. 504, South Anthonyberg, MD 37576",
+    "class": "sophomore",
+    "dob": "2005-04-13",
+    "major": "Physics"
+  },
+  "8851066209": {
+    "first_name": "Edward",
+    "last_name": "Werner",
+    "address": "8134 Brooks Wall, Fritzhaven, VA 29034",
+    "class": "senior",
+    "dob": "2007-02-21",
+    "major": "Electrical Engineering"
+  },
+  "7652260247": {
+    "first_name": "Angela",
+    "last_name": "Kaufman",
+    "address": "906 Ross Port, Codymouth, OK 48152",
+    "class": "freshman",
+    "dob": "2004-09-07",
+    "major": "Computer Science"
+  },
+  "4780152342": {
+    "first_name": "Jill",
+    "last_name": "Brown",
+    "address": "5882 David Inlet, Michellechester, TX 81221",
+    "class": "senior",
+    "dob": "2007-04-04",
+    "major": "Data Science"
+  },
+  "1381827557": {
+    "first_name": "Travis",
+    "last_name": "Pitts",
+    "address": "132 Spears Via Apt. 165, Armstrongbury, NY 24289",
+    "class": "sophomore",
+    "dob": "2004-08-22",
+    "major": "Software Engineering"
+  },
+  "4655023676": {
+    "first_name": "Brooke",
+    "last_name": "Solomon",
+    "address": "02772 Carlos Mountain, Vargasfort, SD 06328",
+    "class": "freshman",
+    "dob": "2003-11-12",
+    "major": "Cybersecurity"
+  },
+  "6653200086": {
+    "first_name": "Lawrence",
+    "last_name": "Taylor",
+    "address": "547 Blake Ville, New Kimberlymouth, NY 54465",
+    "class": "freshman",
+    "dob": "2005-10-21",
+    "major": "Artificial Intelligence"
+  },
+  "5668222737": {
+    "first_name": "Scott",
+    "last_name": "Clark",
+    "address": "USS Gray, FPO AP 12171",
+    "class": "sophomore",
+    "dob": "2004-09-11",
+    "major": "Electrical Engineering"
+  },
+  "0919184221": {
+    "first_name": "Scott",
+    "last_name": "Buck",
+    "address": "07971 Patrick Row Apt. 983, New Sierra, RI 82855",
+    "class": "sophomore",
+    "dob": "2005-05-02",
+    "major": "Mathematics"
+  },
+  "8963714917": {
+    "first_name": "Virginia",
+    "last_name": "Ochoa",
+    "address": "USS Johnson, FPO AP 65112",
+    "class": "senior",
+    "dob": "2005-07-24",
+    "major": "Physics"
+  },
+  "5435463467": {
+    "first_name": "Michael",
+    "last_name": "Ryan",
+    "address": "PSC 0793, Box 9030, APO AA 65495",
+    "class": "junior",
+    "dob": "2002-06-29",
+    "major": "Data Science"
+  },
+  "9045122953": {
+    "first_name": "Lori",
+    "last_name": "Dean",
+    "address": "5395 Alfred Port Suite 992, New Jesse, AR 98350",
+    "class": "sophomore",
+    "dob": "2004-01-31",
+    "major": "Software Engineering"
+  },
+  "6769276949": {
+    "first_name": "Donald",
+    "last_name": "Jordan",
+    "address": "6038 Ochoa Lane, Danielstad, DC 08434",
+    "class": "sophomore",
+    "dob": "2006-05-02",
+    "major": "Physics"
+  },
+  "0328239904": {
+    "first_name": "Michael",
+    "last_name": "Navarro",
+    "address": "92063 Emily Landing Apt. 365, South Susanhaven, AL 52642",
+    "class": "junior",
+    "dob": "2007-04-26",
+    "major": "Computer Science"
+  },
+  "3060802755": {
+    "first_name": "Jacob",
+    "last_name": "Perez",
+    "address": "9094 Baker Flat, West Melissabury, NM 32016",
+    "class": "sophomore",
+    "dob": "2005-02-22",
+    "major": "Data Science"
+  },
+  "2456335663": {
+    "first_name": "Courtney",
+    "last_name": "Hodge",
+    "address": "1606 Sloan Divide, West Michaelborough, WI 74447",
+    "class": "freshman",
+    "dob": "2002-09-22",
+    "major": "Mathematics"
+  },
+  "9507065582": {
+    "first_name": "Benjamin",
+    "last_name": "Mcfarland",
+    "address": "371 Matthew Landing Apt. 191, West Johnny, AR 55585",
+    "class": "sophomore",
+    "dob": "2002-12-26",
+    "major": "Mathematics"
+  },
+  "4450209978": {
+    "first_name": "Eric",
+    "last_name": "Owens",
+    "address": "6559 Carlson Lodge, Ronnieburgh, DE 10947",
+    "class": "freshman",
+    "dob": "2002-11-07",
+    "major": "Artificial Intelligence"
+  },
+  "9223790635": {
+    "first_name": "Patricia",
+    "last_name": "Rice",
+    "address": "Unit 1186 Box 6318, DPO AE 14311",
+    "class": "sophomore",
+    "dob": "2005-07-04",
+    "major": "Electrical Engineering"
+  },
+  "1187389301": {
+    "first_name": "Rodney",
+    "last_name": "Little",
+    "address": "49726 Guy Canyon Suite 861, Lunachester, HI 71527",
+    "class": "senior",
+    "dob": "2004-05-07",
+    "major": "Software Engineering"
+  },
+  "8014130914": {
+    "first_name": "Jack",
+    "last_name": "Cline",
+    "address": "62231 Nguyen Knoll Apt. 793, Cervantesfort, CT 31124",
+    "class": "senior",
+    "dob": "2003-11-17",
+    "major": "Computer Engineering"
+  },
+  "5995061325": {
+    "first_name": "Peter",
+    "last_name": "King",
+    "address": "4304 Gonzalez Crossing Suite 360, Williamsland, AZ 72428",
+    "class": "junior",
+    "dob": "2002-06-15",
+    "major": "Mathematics"
+  },
+  "2904368240": {
+    "first_name": "Richard",
+    "last_name": "Robertson",
+    "address": "804 Stout Forges Apt. 411, Schaeferton, MS 22522",
+    "class": "freshman",
+    "dob": "2006-06-28",
+    "major": "Electrical Engineering"
+  },
+  "8665179748": {
+    "first_name": "Kathy",
+    "last_name": "Cunningham",
+    "address": "9755 Martinez Hollow Apt. 362, West Lesliehaven, GA 24170",
+    "class": "freshman",
+    "dob": "2007-01-25",
+    "major": "Computer Science"
+  },
+  "7013557373": {
+    "first_name": "Alexander",
+    "last_name": "Hawkins",
+    "address": "51766 Johnson Ferry Apt. 188, North Davidshire, RI 50738",
+    "class": "sophomore",
+    "dob": "2003-05-10",
+    "major": "Mathematics"
+  },
+  "0098864470": {
+    "first_name": "Mary",
+    "last_name": "Webb",
+    "address": "281 Scott Turnpike Suite 287, North Charles, RI 28655",
+    "class": "freshman",
+    "dob": "2005-01-03",
+    "major": "Data Science"
+  },
+  "6516454806": {
+    "first_name": "Marisa",
+    "last_name": "Patterson",
+    "address": "18036 Hall Plains Apt. 764, West Janice, MI 80964",
+    "class": "junior",
+    "dob": "2004-09-10",
+    "major": "Cybersecurity"
+  },
+  "0141647776": {
+    "first_name": "Erica",
+    "last_name": "Rowe",
+    "address": "417 James Fork Apt. 450, Petersenshire, FL 59460",
+    "class": "freshman",
+    "dob": "2004-09-12",
+    "major": "Artificial Intelligence"
+  },
+  "5187718129": {
+    "first_name": "Charles",
+    "last_name": "Booth",
+    "address": "998 Ashley Rest Apt. 295, Jonesland, VA 23887",
+    "class": "freshman",
+    "dob": "2002-06-21",
+    "major": "Physics"
+  },
+  "9268544734": {
+    "first_name": "Chad",
+    "last_name": "Jones",
+    "address": "1057 Myers Island Apt. 206, South Jacqueline, TN 97939",
+    "class": "sophomore",
+    "dob": "2006-02-21",
+    "major": "Data Science"
+  },
+  "5554732693": {
+    "first_name": "Gina",
+    "last_name": "Glenn",
+    "address": "30052 John Inlet Apt. 272, West John, IA 61934",
+    "class": "sophomore",
+    "dob": "2002-11-18",
+    "major": "Information Systems"
+  },
+  "3372582059": {
+    "first_name": "James",
+    "last_name": "Gonzales",
+    "address": "38377 Eaton Gateway Suite 931, East Angelashire, NY 92628",
+    "class": "junior",
+    "dob": "2007-01-25",
+    "major": "Information Systems"
+  },
+  "5575694200": {
+    "first_name": "Christina",
+    "last_name": "Rios",
+    "address": "97925 Clay Mountain Apt. 577, West Teresaview, TN 50313",
+    "class": "junior",
+    "dob": "2006-06-29",
+    "major": "Computer Science"
+  },
+  "5796051364": {
+    "first_name": "Aaron",
+    "last_name": "Hill",
+    "address": "PSC 2709, Box 4230, APO AE 39346",
+    "class": "freshman",
+    "dob": "2003-06-12",
+    "major": "Mathematics"
+  },
+  "9045676580": {
+    "first_name": "Shawn",
+    "last_name": "Reilly",
+    "address": "98078 Andrew Parkways Suite 225, Meyermouth, GA 09306",
+    "class": "freshman",
+    "dob": "2004-02-17",
+    "major": "Computer Science"
+  },
+  "2359136420": {
+    "first_name": "Katie",
+    "last_name": "Robinson",
+    "address": "Unit 6934 Box 4342, DPO AA 66844",
+    "class": "senior",
+    "dob": "2002-11-15",
+    "major": "Information Systems"
+  },
+  "2542133136": {
+    "first_name": "Daniel",
+    "last_name": "Williams",
+    "address": "794 Grant Center Suite 386, Charlesbury, NJ 99590",
+    "class": "freshman",
+    "dob": "2002-11-13",
+    "major": "Software Engineering"
+  },
+  "7171919335": {
+    "first_name": "Laura",
+    "last_name": "Maynard",
+    "address": "73786 Vaughan Via, Barkerborough, LA 63725",
+    "class": "junior",
+    "dob": "2007-03-12",
+    "major": "Information Systems"
+  },
+  "2276236054": {
+    "first_name": "David",
+    "last_name": "Young",
+    "address": "253 Nicholson Square Apt. 407, Philipburgh, MS 46129",
+    "class": "junior",
+    "dob": "2005-03-27",
+    "major": "Mathematics"
+  },
+  "3983691690": {
+    "first_name": "Tara",
+    "last_name": "Skinner",
+    "address": "0066 Jose Summit, Foxtown, AL 82428",
+    "class": "sophomore",
+    "dob": "2004-01-27",
+    "major": "Software Engineering"
+  },
+  "6879457342": {
+    "first_name": "Lisa",
+    "last_name": "Tucker",
+    "address": "70003 Cynthia Haven Apt. 470, Port Michael, WY 23210",
+    "class": "junior",
+    "dob": "2003-09-10",
+    "major": "Physics"
+  },
+  "5803318412": {
+    "first_name": "Christina",
+    "last_name": "Hawkins",
+    "address": "729 Christina Parkway Suite 307, Warrenberg, NC 43458",
+    "class": "freshman",
+    "dob": "2004-04-29",
+    "major": "Information Systems"
+  },
+  "1757247944": {
+    "first_name": "Zachary",
+    "last_name": "Torres",
+    "address": "960 Smith Key Suite 775, Lake Brianna, OR 58391",
+    "class": "sophomore",
+    "dob": "2004-06-09",
+    "major": "Artificial Intelligence"
+  },
+  "4757415342": {
+    "first_name": "Scott",
+    "last_name": "Gomez",
+    "address": "389 Parker Viaduct, Wallland, TX 40281",
+    "class": "freshman",
+    "dob": "2004-11-26",
+    "major": "Information Systems"
+  },
+  "2973504582": {
+    "first_name": "Amber",
+    "last_name": "Williams",
+    "address": "0728 Gonzalez Trace, South Joshuaside, MD 28539",
+    "class": "sophomore",
+    "dob": "2003-08-24",
+    "major": "Computer Engineering"
+  },
+  "6416025209": {
+    "first_name": "Aaron",
+    "last_name": "Patterson",
+    "address": "92003 Courtney Brooks Suite 218, Christietown, CA 91947",
+    "class": "junior",
+    "dob": "2005-06-06",
+    "major": "Data Science"
+  },
+  "8322788099": {
+    "first_name": "Carolyn",
+    "last_name": "Maldonado",
+    "address": "0833 Katherine Wells Apt. 257, Joshuaport, VT 27133",
+    "class": "sophomore",
+    "dob": "2002-06-19",
+    "major": "Software Engineering"
+  },
+  "0207797396": {
+    "first_name": "Linda",
+    "last_name": "Owens",
+    "address": "2450 Jackson Underpass, Hillshire, OR 07216",
+    "class": "senior",
+    "dob": "2005-12-07",
+    "major": "Computer Science"
+  },
+  "3175944987": {
+    "first_name": "Maria",
+    "last_name": "Bowen",
+    "address": "8745 Booker Crest Suite 707, South Tony, LA 31412",
+    "class": "sophomore",
+    "dob": "2007-04-10",
+    "major": "Mathematics"
+  },
+  "1050927778": {
+    "first_name": "James",
+    "last_name": "Meadows",
+    "address": "579 Rodriguez Circle, Lake Edward, HI 56344",
+    "class": "senior",
+    "dob": "2003-08-26",
+    "major": "Computer Science"
+  },
+  "6547485801": {
+    "first_name": "Crystal",
+    "last_name": "Jordan",
+    "address": "791 Gomez Radial Suite 139, Travisville, IL 62318",
+    "class": "freshman",
+    "dob": "2005-06-13",
+    "major": "Physics"
+  },
+  "1198217640": {
+    "first_name": "Michael",
+    "last_name": "Walton",
+    "address": "50549 Wallace Coves, Donaldton, PA 57690",
+    "class": "senior",
+    "dob": "2002-08-30",
+    "major": "Information Systems"
+  },
+  "9817222043": {
+    "first_name": "Bradley",
+    "last_name": "Perez",
+    "address": "577 Michelle Gateway Apt. 600, North Anna, CT 89975",
+    "class": "sophomore",
+    "dob": "2007-04-23",
+    "major": "Computer Engineering"
+  },
+  "4225253446": {
+    "first_name": "Lee",
+    "last_name": "Torres",
+    "address": "162 Donna Ridges, Lake Michaelmouth, WI 55348",
+    "class": "freshman",
+    "dob": "2005-03-03",
+    "major": "Mathematics"
+  },
+  "5499015218": {
+    "first_name": "John",
+    "last_name": "Brock",
+    "address": "9022 Garrett Ways Suite 539, New Joseph, MA 51519",
+    "class": "senior",
+    "dob": "2006-10-16",
+    "major": "Electrical Engineering"
+  },
+  "5932258209": {
+    "first_name": "Heather",
+    "last_name": "Johnson",
+    "address": "5279 Patricia Ranch Apt. 252, Smithburgh, MT 33743",
+    "class": "junior",
+    "dob": "2006-03-28",
+    "major": "Data Science"
+  },
+  "3948815711": {
+    "first_name": "Nicholas",
+    "last_name": "Smith",
+    "address": "078 Cabrera Key, Tuckermouth, OH 77083",
+    "class": "freshman",
+    "dob": "2004-08-13",
+    "major": "Software Engineering"
+  },
+  "9814629461": {
+    "first_name": "Stephanie",
+    "last_name": "Franco",
+    "address": "4848 Heath Corners Suite 142, Lake Nicholashaven, SD 17801",
+    "class": "junior",
+    "dob": "2004-01-11",
+    "major": "Computer Engineering"
+  },
+  "5888888466": {
+    "first_name": "Scott",
+    "last_name": "Chan",
+    "address": "8997 Adams Run, East Richardmouth, CT 87467",
+    "class": "junior",
+    "dob": "2002-10-18",
+    "major": "Cybersecurity"
+  },
+  "4054592204": {
+    "first_name": "Meredith",
+    "last_name": "Gonzalez",
+    "address": "5018 Ryan Vista Apt. 116, Williamland, OH 82895",
+    "class": "sophomore",
+    "dob": "2004-10-07",
+    "major": "Computer Engineering"
+  },
+  "5510737804": {
+    "first_name": "Emily",
+    "last_name": "Fowler",
+    "address": "28903 Justin Estate Suite 846, Crawfordland, OK 11921",
+    "class": "sophomore",
+    "dob": "2006-08-21",
+    "major": "Information Systems"
+  },
+  "9976840757": {
+    "first_name": "Breanna",
+    "last_name": "Hudson",
+    "address": "19752 Michael Coves Apt. 459, Jeremiahbury, IN 07389",
+    "class": "sophomore",
+    "dob": "2004-09-20",
+    "major": "Data Science"
+  },
+  "8033467149": {
+    "first_name": "Jerry",
+    "last_name": "Beck",
+    "address": "84406 Howard Lock, Foxside, OK 72119",
+    "class": "junior",
+    "dob": "2004-08-24",
+    "major": "Artificial Intelligence"
+  },
+  "2494245582": {
+    "first_name": "Ashley",
+    "last_name": "Mata",
+    "address": "155 Harrison Bridge Suite 996, Lake Michael, AR 14989",
+    "class": "freshman",
+    "dob": "2007-03-20",
+    "major": "Physics"
+  },
+  "3682883130": {
+    "first_name": "John",
+    "last_name": "Gonzales",
+    "address": "55248 Michael Hills Suite 115, Jamestown, SC 38084",
+    "class": "senior",
+    "dob": "2002-11-13",
+    "major": "Cybersecurity"
+  },
+  "0296153527": {
+    "first_name": "Angela",
+    "last_name": "Stanley",
+    "address": "641 Cox Cape Apt. 127, Butlerland, MD 92831",
+    "class": "freshman",
+    "dob": "2004-08-07",
+    "major": "Electrical Engineering"
+  },
+  "2565068924": {
+    "first_name": "Heather",
+    "last_name": "Anderson",
+    "address": "28625 Rodriguez Pines, West Eric, MI 06667",
+    "class": "junior",
+    "dob": "2004-06-10",
+    "major": "Artificial Intelligence"
+  },
+  "5520700278": {
+    "first_name": "Melissa",
+    "last_name": "Weber",
+    "address": "PSC 4245, Box 9738, APO AP 22327",
+    "class": "junior",
+    "dob": "2007-01-17",
+    "major": "Information Systems"
+  },
+  "2706916243": {
+    "first_name": "Jennifer",
+    "last_name": "Alexander",
+    "address": "94532 Laura Cliffs Suite 016, Doyleville, MD 53906",
+    "class": "sophomore",
+    "dob": "2003-02-27",
+    "major": "Mathematics"
+  },
+  "4998821775": {
+    "first_name": "Joseph",
+    "last_name": "Palmer",
+    "address": "94741 Kimberly Brook Apt. 094, Rivaston, CA 78493",
+    "class": "junior",
+    "dob": "2004-05-05",
+    "major": "Information Systems"
+  },
+  "1378706108": {
+    "first_name": "Kristina",
+    "last_name": "Hubbard",
+    "address": "943 Katherine Summit, Lake Evan, OR 19278",
+    "class": "sophomore",
+    "dob": "2005-03-30",
+    "major": "Mathematics"
+  },
+  "8147191989": {
+    "first_name": "Charlene",
+    "last_name": "Haney",
+    "address": "651 Romero Shoals, New Jasmine, WV 41285",
+    "class": "senior",
+    "dob": "2003-11-21",
+    "major": "Artificial Intelligence"
+  },
+  "0383449873": {
+    "first_name": "Brian",
+    "last_name": "Ingram",
+    "address": "36095 Bryan Extensions Suite 375, North Annaberg, KS 83538",
+    "class": "senior",
+    "dob": "2007-05-19",
+    "major": "Cybersecurity"
+  },
+  "9096772138": {
+    "first_name": "Catherine",
+    "last_name": "Welch",
+    "address": "7247 Amanda Village, Kaufmanfurt, NE 07236",
+    "class": "sophomore",
+    "dob": "2004-09-24",
+    "major": "Computer Science"
+  },
+  "0378039180": {
+    "first_name": "Timothy",
+    "last_name": "Lowe",
+    "address": "PSC 8859, Box 2098, APO AA 36704",
+    "class": "freshman",
+    "dob": "2005-06-30",
+    "major": "Data Science"
+  },
+  "7630750545": {
+    "first_name": "Oscar",
+    "last_name": "Mccoy",
+    "address": "0623 May Station Apt. 108, Melissaport, AK 02775",
+    "class": "sophomore",
+    "dob": "2003-08-20",
+    "major": "Cybersecurity"
+  },
+  "0969388868": {
+    "first_name": "Brett",
+    "last_name": "Berry",
+    "address": "931 Montoya Squares, Webbbury, DC 31723",
+    "class": "junior",
+    "dob": "2006-01-16",
+    "major": "Physics"
+  },
+  "6552633132": {
+    "first_name": "Edward",
+    "last_name": "Farmer",
+    "address": "97248 Frey Flat Suite 392, Calderonmouth, KY 71033",
+    "class": "freshman",
+    "dob": "2004-12-31",
+    "major": "Computer Engineering"
+  },
+  "2705029743": {
+    "first_name": "Joseph",
+    "last_name": "Bailey",
+    "address": "34604 Charlene Oval, Hayleyberg, IN 27149",
+    "class": "junior",
+    "dob": "2006-03-15",
+    "major": "Computer Science"
+  },
+  "9986210249": {
+    "first_name": "Jeremy",
+    "last_name": "Russell",
+    "address": "815 Dana Landing, Lake Deborahstad, AL 13490",
+    "class": "senior",
+    "dob": "2006-03-13",
+    "major": "Data Science"
+  },
+  "7457724055": {
+    "first_name": "Barbara",
+    "last_name": "Pratt",
+    "address": "9234 Koch Lake Apt. 491, West Noah, SC 84773",
+    "class": "freshman",
+    "dob": "2006-05-06",
+    "major": "Mathematics"
+  },
+  "2091897876": {
+    "first_name": "Jacob",
+    "last_name": "Mitchell",
+    "address": "45101 Felicia Brooks Apt. 922, Jackieport, TX 95381",
+    "class": "senior",
+    "dob": "2002-08-02",
+    "major": "Computer Engineering"
+  },
+  "5608294975": {
+    "first_name": "Allen",
+    "last_name": "Blackburn",
+    "address": "1911 Smith Wells Suite 680, Lunafort, MO 83660",
+    "class": "senior",
+    "dob": "2007-01-30",
+    "major": "Physics"
+  },
+  "0551169490": {
+    "first_name": "Angela",
+    "last_name": "Smith",
+    "address": "29546 Nicholas Manors, New Thomas, ND 42195",
+    "class": "senior",
+    "dob": "2003-08-20",
+    "major": "Artificial Intelligence"
+  },
+  "1921757965": {
+    "first_name": "Jennifer",
+    "last_name": "Houston",
+    "address": "476 Cortez Park, South Joshua, FL 03773",
+    "class": "junior",
+    "dob": "2004-03-26",
+    "major": "Software Engineering"
+  },
+  "2013704966": {
+    "first_name": "Holly",
+    "last_name": "Ross",
+    "address": "813 Alyssa Spur Apt. 228, East Johnbury, HI 62348",
+    "class": "junior",
+    "dob": "2006-11-09",
+    "major": "Physics"
+  },
+  "6629118003": {
+    "first_name": "Cynthia",
+    "last_name": "Randolph",
+    "address": "977 Sara Corners Suite 243, Lake David, IL 44903",
+    "class": "freshman",
+    "dob": "2003-07-12",
+    "major": "Physics"
+  },
+  "2306650946": {
+    "first_name": "Benjamin",
+    "last_name": "Long",
+    "address": "0415 Kristina Valley Apt. 466, New Laurie, GA 94992",
+    "class": "freshman",
+    "dob": "2006-10-20",
+    "major": "Mathematics"
+  },
+  "2428642705": {
+    "first_name": "Melanie",
+    "last_name": "Cruz",
+    "address": "1703 Ryan Junction Suite 969, East Christopherstad, DE 33951",
+    "class": "freshman",
+    "dob": "2005-11-08",
+    "major": "Computer Science"
+  },
+  "9395902258": {
+    "first_name": "Sabrina",
+    "last_name": "Carlson",
+    "address": "0831 Mason Lock, Port Dawnton, CO 43220",
+    "class": "sophomore",
+    "dob": "2006-06-21",
+    "major": "Information Systems"
+  },
+  "5000389860": {
+    "first_name": "Amber",
+    "last_name": "Thompson",
+    "address": "375 Mary Bypass Suite 158, Rickeytown, NC 65809",
+    "class": "freshman",
+    "dob": "2004-07-23",
+    "major": "Cybersecurity"
+  },
+  "8324307379": {
+    "first_name": "Briana",
+    "last_name": "Schmidt",
+    "address": "8744 Torres Circle, East Philip, ID 04236",
+    "class": "sophomore",
+    "dob": "2005-06-08",
+    "major": "Physics"
+  },
+  "4421353691": {
+    "first_name": "Richard",
+    "last_name": "Chaney",
+    "address": "6191 Hoffman Pike, Loweborough, OR 96409",
+    "class": "senior",
+    "dob": "2003-01-05",
+    "major": "Information Systems"
+  },
+  "9795640991": {
+    "first_name": "Dana",
+    "last_name": "Bradley",
+    "address": "44528 Evelyn Vista Suite 483, West Jacqueline, AZ 36771",
+    "class": "senior",
+    "dob": "2006-07-04",
+    "major": "Mathematics"
+  },
+  "8065123583": {
+    "first_name": "Timothy",
+    "last_name": "Mcmillan",
+    "address": "308 Martinez Trafficway Suite 744, East Dustinmouth, SD 75368",
+    "class": "sophomore",
+    "dob": "2006-09-17",
+    "major": "Physics"
+  },
+  "6269490988": {
+    "first_name": "Charles",
+    "last_name": "Schroeder",
+    "address": "02656 Victoria Square, Jacobsview, NJ 23903",
+    "class": "freshman",
+    "dob": "2006-05-02",
+    "major": "Electrical Engineering"
+  },
+  "8545349671": {
+    "first_name": "Cody",
+    "last_name": "Fischer",
+    "address": "195 Jones Ports, East Aaron, NC 97346",
+    "class": "sophomore",
+    "dob": "2004-04-04",
+    "major": "Electrical Engineering"
+  },
+  "3710131264": {
+    "first_name": "Joshua",
+    "last_name": "Wilson",
+    "address": "6740 Charles Forge Suite 753, Amandaville, SD 01280",
+    "class": "junior",
+    "dob": "2007-01-24",
+    "major": "Cybersecurity"
+  },
+  "6918742572": {
+    "first_name": "Mindy",
+    "last_name": "Woods",
+    "address": "6780 Vanessa Dam Apt. 891, Gregoryborough, CO 47774",
+    "class": "senior",
+    "dob": "2003-05-31",
+    "major": "Electrical Engineering"
+  },
+  "0272318606": {
+    "first_name": "Eric",
+    "last_name": "Franklin",
+    "address": "USNS Graves, FPO AP 42296",
+    "class": "freshman",
+    "dob": "2002-12-01",
+    "major": "Information Systems"
+  },
+  "0481355989": {
+    "first_name": "Peter",
+    "last_name": "Maldonado",
+    "address": "PSC 0928, Box 1764, APO AP 77277",
+    "class": "freshman",
+    "dob": "2005-01-26",
+    "major": "Computer Science"
+  },
+  "9634536469": {
+    "first_name": "Joshua",
+    "last_name": "Nielsen",
+    "address": "0946 Thompson Vista Suite 933, New Karenshire, MD 62171",
+    "class": "sophomore",
+    "dob": "2007-05-25",
+    "major": "Cybersecurity"
+  },
+  "0190381665": {
+    "first_name": "Angela",
+    "last_name": "Ball",
+    "address": "861 Howard Station, West Benjaminland, MN 65944",
+    "class": "freshman",
+    "dob": "2003-12-27",
+    "major": "Software Engineering"
+  },
+  "2125020795": {
+    "first_name": "Carmen",
+    "last_name": "Olson",
+    "address": "USCGC Lucero, FPO AP 82421",
+    "class": "freshman",
+    "dob": "2004-10-05",
+    "major": "Physics"
+  },
+  "5689062459": {
+    "first_name": "Daniel",
+    "last_name": "Adams",
+    "address": "3741 Watkins Lodge Apt. 419, Ronnieview, MO 01856",
+    "class": "freshman",
+    "dob": "2006-09-26",
+    "major": "Software Engineering"
+  },
+  "2004428180": {
+    "first_name": "Debra",
+    "last_name": "Jones",
+    "address": "6514 Miller Stream, North Angela, VT 71016",
+    "class": "sophomore",
+    "dob": "2005-07-10",
+    "major": "Physics"
+  },
+  "7969370892": {
+    "first_name": "Kimberly",
+    "last_name": "Callahan",
+    "address": "68929 Chase Green Apt. 384, West Melissa, CA 39292",
+    "class": "senior",
+    "dob": "2007-01-07",
+    "major": "Software Engineering"
+  },
+  "3752383275": {
+    "first_name": "Christina",
+    "last_name": "Green",
+    "address": "375 James Orchard Apt. 658, East Kyle, NC 89534",
+    "class": "senior",
+    "dob": "2005-08-11",
+    "major": "Computer Engineering"
+  },
+  "0245051528": {
+    "first_name": "Craig",
+    "last_name": "Petty",
+    "address": "3078 Kristina Plains Suite 024, Rodriguezport, OR 19637",
+    "class": "senior",
+    "dob": "2003-12-07",
+    "major": "Cybersecurity"
+  },
+  "6815700690": {
+    "first_name": "Madeline",
+    "last_name": "Proctor",
+    "address": "196 Susan Light, West Deannaside, NC 46909",
+    "class": "freshman",
+    "dob": "2007-04-14",
+    "major": "Software Engineering"
+  }
+}
