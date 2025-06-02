@@ -9,36 +9,39 @@ class Contacts:
         self.dic = {}
         try:
             with open(filename) as f:
-                self.dic = json.load(f)
+                full_data = json.load(f)
+                for phone, info in full_data.items():
+                    self.dic[phone] = [info["first_name"], info["last_name"]]
         except FileNotFoundError as e:
             print(e)
+
     
-    def add_contact(self, *, id, first_name, last_name):
-        if id in self.dic.keys():
+    def add_contact(self, *, phone, first_name, last_name):
+        if phone in self.dic.keys():
             return "error"
         else:
-            self.dic[id] = [first_name, last_name]
+            self.dic[phone] = [first_name, last_name]
             sorted_contacts = dict(sorted(self.dic.items(), key = lambda contact : (contact[1][1].lower(), contact[1][0].lower())))
             with open(self.filename, "w") as f:
                 json.dump(sorted_contacts, f)
-            return {id : [first_name, last_name]}
+            return {phone : [first_name, last_name]}
     
-    def modify_contact(self, *, id, first_name, last_name):
-        if id not in self.dic.keys():
+    def modify_contact(self, *, phone, first_name, last_name):
+        if phone not in self.dic.keys():
             return "error"
         else:
-            self.dic[id] = [first_name, last_name]
+            self.dic[phone] = [first_name, last_name]
             sorted_contacts = dict(sorted(self.dic.items(), key = lambda contact : (contact[1][1].lower(), contact[1][0].lower())))
             with open(self.filename, "w") as f:
                 json.dump(sorted_contacts, f)
-            return {id : [first_name, last_name]}
+            return {phone : [first_name, last_name]}
     
-    def delete_contact(self, *, id):
-        if id not in self.dic.keys():
+    def delete_contact(self, *, phone):
+        if phone not in self.dic.keys():
             return "error"
         else:
-            name = self.dic[id]
-            del self.dic[id]
+            name = self.dic[phone]
+            del self.dic[phone]
             with open(self.filename, "w") as f:
                 json.dump(self.dic, f)
             return name
